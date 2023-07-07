@@ -1,2 +1,3 @@
-# recipes.github.io
+# Recipes
+
 Collection of tried-and-true recipes
