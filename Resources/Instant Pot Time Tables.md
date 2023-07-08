@@ -1,3 +1,6 @@
+---
+permalink: /resources/instant-pot-time-tables
+---
 # Instant Pot Time Tables
 
 Source: Tom

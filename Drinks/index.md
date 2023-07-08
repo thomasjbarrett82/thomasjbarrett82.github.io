@@ -3,4 +3,4 @@ permalink: /drinks
 ---
 # Index
 
-[Artichoke Spinach Dip](/appetizers/artichoke-spinach-dip)
+[Drinks test](https://www.google.com)

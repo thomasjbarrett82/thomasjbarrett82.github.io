@@ -3,4 +3,4 @@ permalink: /pasta
 ---
 # Index
 
-[Artichoke Spinach Dip](/appetizers/artichoke-spinach-dip)
+[Pasta test](https://www.google.com)

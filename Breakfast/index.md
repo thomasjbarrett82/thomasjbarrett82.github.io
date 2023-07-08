@@ -3,4 +3,4 @@ permalink: /breakfast
 ---
 # Index
 
-[Artichoke Spinach Dip](/appetizers/artichoke-spinach-dip)
+[Breakfast test](https://www.google.com)

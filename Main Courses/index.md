@@ -3,4 +3,4 @@ permalink: /main
 ---
 # Index
 
-[Artichoke Spinach Dip](/appetizers/artichoke-spinach-dip)
+[Main test](https://www.google.com)

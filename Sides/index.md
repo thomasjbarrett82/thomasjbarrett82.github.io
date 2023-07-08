@@ -3,4 +3,4 @@ permalink: /sides
 ---
 # Index
 
-[Artichoke Spinach Dip](/appetizers/artichoke-spinach-dip)
+[Sides test](https://www.google.com)

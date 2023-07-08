@@ -3,4 +3,4 @@ permalink: /resources
 ---
 # Index
 
-[Artichoke Spinach Dip](/appetizers/artichoke-spinach-dip)
+[Instant Pot Time Tables](/resources/instant-pot-time-tables)
