@@ -1,3 +1,6 @@
+---
+permalink: /category/recipe-name
+---
 # Title
 
 Source: 

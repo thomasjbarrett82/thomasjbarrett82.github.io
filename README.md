@@ -2,20 +2,20 @@
 
 ## [Appetizers](/appetizers)
 
-## [Breads](https://duckduckgo.com)
+## [Breads](/breads)
 
-## [Breakfast](https://duckduckgo.com)
+## [Breakfast](/breakfast)
 
-## [Cooking Resources](https://duckduckgo.com)
+## [Cooking Resources](/resources)
 
-## [Desserts](https://duckduckgo.com)
+## [Desserts](/desserts)
 
-## [Drinks](https://duckduckgo.com)
+## [Drinks](/drinks)
 
-## [Main Courses](https://duckduckgo.com)
+## [Main Courses](/main)
 
-## [Pasta](https://duckduckgo.com)
+## [Pasta](/pasta)
 
-## [Sides](https://duckduckgo.com)
+## [Sides](/sides)
 
-## [Soups and Stews](https://duckduckgo.com)
+## [Soups and Stews](/soups-and-stews)
