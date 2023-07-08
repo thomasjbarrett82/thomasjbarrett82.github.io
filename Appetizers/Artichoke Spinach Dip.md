@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/artichoke-spinach-dip
+---
 # Artichoke Spinach Dip
 
 Source: Tara
