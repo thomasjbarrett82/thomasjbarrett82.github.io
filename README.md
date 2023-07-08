@@ -1,6 +1,6 @@
 # Categories
 
-## [Appetizers](https://duckduckgo.com)
+## [Appetizers](/appetizers)
 
 ## [Breads](https://duckduckgo.com)
 
