@@ -77,31 +77,29 @@ Source: Tom
 | Vegetables            | Fresh, Minutes    | Frozen, Minutes   |
 |:----------------------|:------------------|:------------------|
 | Artichoke hearts      | 4-5               | 5-6               |
-| Asparagus             | | |
-| Beans/peas            | | |
-| Beets                 | | |
-| Bell pepper           | | |
-| Broccoli              | | |
-| Brussel sprouts       | | |
-| Cabbage               | | |
-| Carrots               | | |
-| Cauliflower           | | |
-| Celery                | | |
-| Corn                  | | |
-| Eggplant              | | |
-| Greens                | | |
-| Leeks/onions          | | |
-| Okra                  | | |
-| Parsnips              | | |
-| Potatoes, cubed       | | |
-| Potatoes, whole       | | |
-| Pumpkin               | | |
-| Rutabaga              | | |
-| Spinach               | | |
-| Squash                | | |
-| Sweet potato, cubed   | | |
-| Sweet potato, whole   | | |
-| Tomatoes              | | |
+| Asparagus             | 1-2               | 2-3               |
+| Beans/peas            | 1-2               | 2-3               |
+| Beets                 | 12-15             | 15-20             |
+| Bell pepper           | 1-2               | 2-3               |
+| Broccoli              | 2-3               | 4-5               |
+| Brussel sprouts       | 2-3               | 4-5               |
+| Cabbage               | 2-3               | 4-5               |
+| Carrots/parsnips      | 2-3               | 4-5               |
+| Cauliflower           | 2-3               | 4-5               |
+| Celery                | 2-3               | 4-5               |
+| Corn                  | 1-2               | 2-3               |
+| Eggplant              | 2-3               | 4-5               |
+| Leeks/onions          | 2-3               | 4-5               |
+| Okra                  | 2-3               | 4-5               |
+| Potatoes, cubed       | 7-9               | 9-12              |
+| Potatoes, whole       | 12-15             | 15-20             |
+| Pumpkin               | 7-9               | 9-12              |
+| Rutabaga              | 2-3               | 4-5               |
+| Spinach/greens        | 2-3               | 4-5               |
+| Squash                | 7-9               | 9-12              |
+| Sweet potato, cubed   | 7-9               | 9-12              |
+| Sweet potato, whole   | 12-15             | 15-20             |
+| Tomatoes              | 2-3               | 4-5               |
 
 ## Fruits
 
