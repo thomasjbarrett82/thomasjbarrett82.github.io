@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/monkey-bread
+---
 # Monkey Bread
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Pour half of sauce over biscuits
 - Repeat with remaining biscuits and sauce
 - Bake for 30-40 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

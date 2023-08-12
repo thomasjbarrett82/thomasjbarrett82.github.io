@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/egg-bake
+---
 # Egg Bake
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Combine all ingredients in greased casserole dish
 - Bake for 45-50 minutes until set
 - Remove and let cool for at least 10 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/breakfast-cookies
+---
 # Breakfast Cookies
 
 Source: Tara
@@ -29,3 +32,7 @@ Source: Tara
 - Dip a glass into water and then sugar and press down on each cookie
 - Bake for 5-7 minutes until golden
 - Remove and cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

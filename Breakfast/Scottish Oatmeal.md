@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/scottish-oatmeal
+---
 # Scottish Oatmeal
 
 ## Ingredients
@@ -17,3 +20,7 @@
 - Let cook for 30-45 minutes
 - Add milk and salt to the pot
 - Stir gently and let cook for 10 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

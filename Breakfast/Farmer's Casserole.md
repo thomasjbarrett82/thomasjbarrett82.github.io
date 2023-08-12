@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/farmers-casserole
+---
 # Farmer's Casserole
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Refrigerate overnight
 - Bake for 40-50 minutes until set
 - Let rest before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

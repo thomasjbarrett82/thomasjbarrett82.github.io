@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/waffles
+---
 # Waffles
 
 ## Ingredients
@@ -19,3 +22,7 @@
 - Mix all ingredients together
 - Drop into waffle iron by ¼ cup scoops
 - Cook until golden brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

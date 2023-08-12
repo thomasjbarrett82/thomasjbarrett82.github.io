@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/pull-apart-cinnamon-rolls
+---
 # Pull-Apart Cinnamon Rolls
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Pour sauce over biscuits
 - Sprinkle with cinnamon
 - Bake for 30 minutes until biscuits are done
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

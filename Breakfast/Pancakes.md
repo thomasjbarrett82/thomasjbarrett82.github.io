@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/pancakes
+---
 # Pancakes
 
 Source: Tara
@@ -26,3 +29,7 @@ Source: Tara
 - Mix in remaining ingredients
 - Fold in the egg whites and let sit for 5 minutes
 - Drop onto hot skillet by ¼ cupful and cook until golden brown on each side
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

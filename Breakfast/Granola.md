@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/granola
+---
 # Granola
 
 ## Ingredients
@@ -24,3 +27,7 @@
 - Bake for 2 hours, stirring occasionally
 - Remove and let cool
 - Store in airtight container
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

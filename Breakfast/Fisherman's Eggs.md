@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/fishermans-eggs
+---
 # Fisherman's Eggs
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Back in the oven for another 4 minutes
 - Remove and sprinkle some hot sauce over everything
 - Eat out of the pan with toast
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

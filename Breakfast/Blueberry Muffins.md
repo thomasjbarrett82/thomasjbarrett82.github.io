@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/blueberry-muffins
+---
 # Blueberry Muffins
 
 Source: Tara
@@ -32,3 +35,7 @@ Source: Tara
 - Add the dry ingredients and stir until fully mixed
 - Pour into muffin tin liners
 - Bake for 20 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

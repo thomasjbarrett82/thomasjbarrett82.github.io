@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/pancakes-allergen-free
+---
 # Pancakes (Allergen-Free)
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Mix in remaining ingredients
 - Let sit for a few minutes to aerate
 - Drop onto hot skillet by ¼ cupful and cook until golden brown on each side
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

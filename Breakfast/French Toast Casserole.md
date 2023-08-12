@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/french-toast-casserole
+---
 # French Toast Casserole
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Let rest at least 10 minutes before serving with fruit and syrup
 
 *Note: can be prepped the night before*
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

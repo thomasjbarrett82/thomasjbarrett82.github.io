@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/frittata
+---
 # Frittata
 
 ## Ingredients
@@ -35,3 +38,7 @@
 
 Feel free to substitute other cheeses, and other vegetables and/or meats
 for the spinach, onion, and bell pepper
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

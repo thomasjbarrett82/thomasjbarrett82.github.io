@@ -1,3 +1,6 @@
+---
+permalink: /breakfast/sausage-gravy
+---
 # Sausage Gravy
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Mix gravy into pot and stir frequently while bringing to a boil
 - Simmer and return sausage to pot
 - Serve over biscuits
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
