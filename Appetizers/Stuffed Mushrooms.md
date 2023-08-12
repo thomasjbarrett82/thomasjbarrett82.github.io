@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/stuffed-mushrooms
+---
 # Stuffed Mushrooms
 
 ## Ingredients
@@ -28,3 +31,7 @@
 - Fill each mushroom with a spoonful of mixture
 - Bake for 15 minutes until golden brown
 - Cool and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

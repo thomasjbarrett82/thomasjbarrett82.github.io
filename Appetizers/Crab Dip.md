@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/crab-dip
+---
 # Crab Dip
 
 ## Ingredients
@@ -14,3 +17,7 @@
 - Mix all ingredients in a bowl
 - Salt and pepper to taste
 - Let chill in fridge for at least 30 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

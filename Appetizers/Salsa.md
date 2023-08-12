@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/salsa
+---
 # Salsa
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Place all ingredients in food processor or blender
 - Blend until still slightly chunky
 - Let stand in fridge for at least 30 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/guacamole
+---
 # Guacamole
 
 ## Ingredients
@@ -18,3 +21,7 @@
 - Pit and mash the avocado in a bowl
 - Stir in the remaining ingredients
 - Salt to taste
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

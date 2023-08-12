@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/caramel-popcorn
+---
 # Caramel Popcorn
 
 Source: Tara
@@ -23,3 +26,7 @@ Source: Tara
 - Shake again to stir up the mixture
 - Microwave for another 1 ½ minutes
 - Pour out onto cookie sheet to cool
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

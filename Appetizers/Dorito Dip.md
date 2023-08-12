@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/dorito-dip
+---
 # Dorito Dip
 
 ## Ingredients
@@ -11,3 +14,7 @@
 - Mix all ingredients in a bowl
 - Microwave for 1 minute at a time, stirring in between, until melted
 - Serve with Doritos or tortilla chips
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

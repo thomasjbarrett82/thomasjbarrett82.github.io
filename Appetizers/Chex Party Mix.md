@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/chex-party-mix
+---
 # Chex Party Mix
 
 Source: Tara
@@ -21,3 +24,7 @@ Source: Tara
 - Mix all ingredients together in a large microwavable bowl
 - Microwave on high 5-6 minutes, stirring every minute
 - Spread on paper towels to cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/veggie-pizza
+---
 # Veggie Pizza
 
 ## Ingredients
@@ -19,3 +22,7 @@
 - Mix sour cream, dill, and ranch dressing
 - Spread over crust
 - Top with mixed veggies
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

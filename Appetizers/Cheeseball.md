@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/cheeseball
+---
 # Cheeseball
 
 Source: Tara
@@ -16,3 +19,7 @@ Source: Tara
 - Mix ½ of beef with remaining ingredients into a ball
 - Roll the ball in remaining beef to cover
 - Serve with crackers
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

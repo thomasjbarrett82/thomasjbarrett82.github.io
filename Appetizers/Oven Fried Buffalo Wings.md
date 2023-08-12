@@ -1,4 +1,9 @@
+---
+permalink: /appetizers/oven-fried-buffalo-wings
+---
 # Oven Fried Buffalo Wings
+
+Works well in air fryer.
 
 ## Ingredients
 
@@ -7,7 +12,8 @@
 - 1 tsp. kosher salt (per pound)
 - 2 tbsp. butter (per pound)
 - 2 tbsp. Frank’s Red Hot (per pound)
-- Blue cheese dressing and celery
+- Blue cheese and ranch dressing  
+- Carrots and celery
 
 ## Prep
 
@@ -26,4 +32,8 @@
 - Combine butter and hot sauce in small saucepan
 - Whisk until combined
 - Transfer wings to large bowl and toss thoroughly to coat
-- Serve immediately with dressing and celery
+- Serve immediately with dressing and veggies
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

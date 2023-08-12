@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/cheese-dip
+---
 # Cheese Dip
 
 ## Ingredients
@@ -12,3 +15,7 @@
 - Stir in tomatoes & chilis thoroughly
 - Turn to LOW or WARM for serving
 - Serve with tortilla chips
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

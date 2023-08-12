@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/chex-party-mix-gf
+---
 # Chex Party Mix (GF)
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Microwave for 3 minutes, 1 minute at a time, stirring
 - Lay out on paper towels to cool
 - Mix in popcorn when cooled and serve in large bowl
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

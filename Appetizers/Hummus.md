@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/hummus
+---
 # Hummus
 
 ## Ingredients
@@ -17,3 +20,7 @@
 - Blend thoroughly
 - Add more oil to get desired consistency
 - Serve with crackers, tortilla chips, or toasted pita bread
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

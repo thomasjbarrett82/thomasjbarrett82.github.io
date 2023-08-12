@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/seven-layer-dip
+---
 # Seven Layer Dip
 
 ## Ingredients
@@ -18,3 +21,7 @@
 - Layer the ingredients in a shallow pan
 - Refrigerate for 2-8 hours ahead of time, if necessary
 - Serve with chips
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

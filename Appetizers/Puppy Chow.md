@@ -1,3 +1,6 @@
+---
+permalink: /appetizers/puppy-chow
+---
 # Puppy Chow
 
 ## Ingredients
@@ -16,3 +19,7 @@
 - Sprinkle with powdered sugar while mixing
   - Alternately, toss in a large paper bag with sugar
 - Spread onto cookie sheet to cool
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
