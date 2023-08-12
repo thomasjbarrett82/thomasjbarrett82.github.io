@@ -1,5 +1,5 @@
 ---
-permalink: /breads/
+permalink: /breads/subway-mayo
 ---
 # Subway Mayo
 
