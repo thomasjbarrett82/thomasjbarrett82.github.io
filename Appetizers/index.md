@@ -18,7 +18,7 @@ permalink: /appetizers
 [Salsa](/appetizers/salsa)  
 [Seven Layer Dip](/appetizers/seven-layer-dip)  
 [Stuffed Mushrooms](/appetizers/stuffed-mushrooms)  
-[Vegetable Pizza](/appetizers/vegetable-pizza)  
+[Veggie Pizza](/appetizers/veggie-pizza)  
 
 ---
 
