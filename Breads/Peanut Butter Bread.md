@@ -1,3 +1,6 @@
+---
+permalink: /breads/peanut-butter-bread
+---
 # Peanut Butter Bread
 
 Source: @bdylanhollis
@@ -22,3 +25,7 @@ Source: @bdylanhollis
 - Stir in milk and nut butter
 - Bake for 70 minutes
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

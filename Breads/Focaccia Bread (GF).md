@@ -1,3 +1,6 @@
+---
+permalink: /breads/focaccia-bread-gf
+---
 # Focaccia Bread (GF)
 
 Source: Tom
@@ -33,3 +36,7 @@ Source: Tom
 - Drizzle topping evenly over the entire pan
 - Bake for 25-30 minutes until it pulls away from pan sides and golden brown on top
 - Remove and let cool for at least 5 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

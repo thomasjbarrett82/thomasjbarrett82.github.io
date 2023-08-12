@@ -1,3 +1,6 @@
+---
+permalink: /breads/irish-soda-bread
+---
 # Irish Soda Bread
 
 ## Ingredients
@@ -36,3 +39,7 @@
 - Bake 20 minutes until bread sounds hollow when tapped
 - Transfer to cooling rack
 - Let cool at least 30 minutes before slicing
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

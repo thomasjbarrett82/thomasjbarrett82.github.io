@@ -1,3 +1,6 @@
+---
+permalink: /breads/subway-bread
+---
 # Subway Bread
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Heat oven to 350 F and bake for 25 minutes
 - Remove sheet and rub tops with a stick of butter
 - Let cool for at least 30 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /breads/
+---
 # Subway Mayo
 
 ## Ingredients
@@ -18,3 +21,7 @@
 - Blend in pulses until an emulsion starts
 - Blend continuously, slowly lifting blender to top in circles
 - Cover and refrigerate for at least 6-8 hours before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

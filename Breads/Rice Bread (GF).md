@@ -1,3 +1,6 @@
+---
+permalink: /breads/rice-bread-gf
+---
 # Rice Bread (GF)
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Let rise in fridge overnight
 - Transfer to greased bread or cast-iron pan
 - Bake at 400 F for 25-35 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

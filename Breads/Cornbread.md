@@ -1,3 +1,6 @@
+---
+permalink: /breads/cornbread
+---
 # Cornbread
 
 ## Ingredients
@@ -29,3 +32,7 @@
 - Fold the wet into the dry
 - Pour into greased 9x9 baking dish or cast-iron pan
 - Bake for 35 minutes until done
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

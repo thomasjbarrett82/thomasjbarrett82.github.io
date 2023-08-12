@@ -1,3 +1,6 @@
+---
+permalink: /breads/chocolate-zucchini-bread
+---
 # Chocolate Zucchini Bread
 
 Source: @bdylanhollis
@@ -25,3 +28,7 @@ Source: @bdylanhollis
 - Combine wet & dry with zucchini in large bowl
 - Bake for 50 mins
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

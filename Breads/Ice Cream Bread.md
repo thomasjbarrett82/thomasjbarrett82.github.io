@@ -1,3 +1,6 @@
+---
+permalink: /breads/ice-cream-bread
+---
 # Ice Cream Bread
 
 Source: @bdylanhollis
@@ -19,3 +22,7 @@ Source: @bdylanhollis
 - Transfer to bread pan
 - Bake for 40-45 minutes
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

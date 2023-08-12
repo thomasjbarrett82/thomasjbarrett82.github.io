@@ -1,3 +1,6 @@
+---
+permalink: /breads/buns
+---
 # Buns
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Heat oven to 375°F
 - Bake for 12-15 minutes until golden
 - Brush butter over tops while still warm
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

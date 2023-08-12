@@ -1,3 +1,6 @@
+---
+permalink: /breads/no-knead-bread
+---
 # No Knead Bread
 
 ## Ingredients
@@ -34,3 +37,7 @@
 
 Faster bread: Shorten the 18 hour rise to 8 hours in Prep 1, skip the 15
 minute rest in Prep 2, and skip the 2 hour rise
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /breads/banana-bread
+---
 # Banana Bread
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Add dry to wet, avoiding overmixing
 - Pour into bread pans
 - Bake for 50-60 minutes, until done
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

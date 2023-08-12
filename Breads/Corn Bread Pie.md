@@ -1,3 +1,6 @@
+---
+permalink: /breads/corn-bread-pie
+---
 # Corn Bread Pie
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Turn batter into a greased 9-inch pie plate
 - Bake for 25 minutes until done
 - Serve with butter and salt & pepper
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

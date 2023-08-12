@@ -1,4 +1,7 @@
-# No-Knead Focaccia
+---
+permalink: /breads/no-knead-focaccia
+---
+# No Knead Focaccia
 
 ## Ingredients
 
@@ -40,3 +43,7 @@
 - Put the skillet in oven and bake until golden brown, 16-24 minutes
 - Skillet can be placed over burner on medium heat if the bottom is not crispy enough
 - Allow to cool slightly before transferring to a cutting board and serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

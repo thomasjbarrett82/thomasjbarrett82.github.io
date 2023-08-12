@@ -1,3 +1,6 @@
+---
+permalink: /breads/lefse
+---
 # Lefse
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Roll out in small portions, like a tortilla
 - Cook on flat griddle or pan
 - Wrap in cloth towel and keep warm until serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

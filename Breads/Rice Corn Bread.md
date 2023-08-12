@@ -1,3 +1,6 @@
+---
+permalink: /breads/rice-corn-bread
+---
 # Rice Corn Bread
 
 Source: @bdylanhollis
@@ -25,3 +28,7 @@ Source: @bdylanhollis
 - Pour into dish
 - Bake for 30 mins
 - Let cool before serving with butter and honey
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
