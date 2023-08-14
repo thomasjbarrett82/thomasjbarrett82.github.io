@@ -1,3 +1,6 @@
+---
+permalink: /drinks/hot-chocolate-mix
+---
 # Hot Chocolate Mix
 
 ## Ingredients
@@ -15,3 +18,7 @@
 ## Directions
 
 - Add ¼ cup mix to 1 cup hot water or milk
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

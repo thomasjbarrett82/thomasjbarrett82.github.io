@@ -3,7 +3,13 @@ permalink: /drinks
 ---
 # Index
 
-[Drinks test](https://www.google.com)
+[Christmas Special Beer](/drinks/christmas-special-beer)  
+[Eggnog](/drinks/eggnog)  
+[Home-made Bailey's](/drinks/home-made-baileys)  
+[Hot Chocolate Mix](/drinks/hot-chocolate-mix)  
+[Perfect Green Smoothie](/drinks/perfect-green-smoothie)  
+[Punch](/drinks/punch)  
+[Russian Tea](/drinks/russian-tea)  
 
 ---
 

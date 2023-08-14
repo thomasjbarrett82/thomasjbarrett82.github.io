@@ -1,3 +1,6 @@
+---
+permalink: /drinks/home-made-baileys
+---
 # Home-made Bailey's
 
 ## Ingredients
@@ -16,3 +19,7 @@
 - Store in fridge in sealed container.
 - Shake before using.
 - Will keep for up to 2 months.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

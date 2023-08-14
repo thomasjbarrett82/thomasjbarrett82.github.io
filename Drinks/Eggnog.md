@@ -1,3 +1,6 @@
+---
+permalink: /drinks/eggnog
+---
 # Eggnog
 
 Source: @bdylanhollis
@@ -25,3 +28,7 @@ Source: @bdylanhollis
 - Whisk egg whites and 1/4 cup sugar until fluffy
 - Fold into eggnog with nutmeg and vanilla
 - Chill in fridge for at least 1 hour before serving with rum or bourbon
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

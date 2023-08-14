@@ -1,3 +1,6 @@
+---
+permalink: /drinks/punch
+---
 # Punch
 
 ## Ingredients
@@ -10,3 +13,7 @@
 
 - Mix sodas in a large punch bowl
 - Add sherbet to bowl by the scoop
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /drinks/christmas-special-beer
+---
 # Christmas Special Beer
 
 ## Ingredients
@@ -34,3 +37,7 @@
 - Should be ready for bottling after ~3 weeks
 - Prime for bottling with ¾ cup malt extract
 - Should be ready to drink ~2 weeks after bottling
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /drinks/perfect-green-smoothie
+---
 # Perfect Green Smoothie
 
 ## Ingredients
@@ -18,3 +21,7 @@
 
 - Add all ingredients to a strong blender
 - Blend until smooth
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

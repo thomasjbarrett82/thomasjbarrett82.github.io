@@ -1,3 +1,6 @@
+---
+permalink: /drinks/russian-tea
+---
 # Russian Tea
 
 ## Ingredients
@@ -18,3 +21,7 @@
 ## Directions
 
 - Mix 3 tsp. of mix in 1 cup of boiling water
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
