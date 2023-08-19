@@ -1,3 +1,6 @@
+---
+permalink: /pasta/garlic-angel-hair-chicken
+---
 # Garlic Angel Hair Chicken
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Return chicken to pan
 - Simmer for 5 minutes
 - Serve over the pasta
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

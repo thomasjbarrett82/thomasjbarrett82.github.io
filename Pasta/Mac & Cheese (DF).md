@@ -1,3 +1,6 @@
+---
+permalink: /pasta/mac-cheese-df
+---
 # Mac & Cheese (DF)
 
 ## Ingredients
@@ -24,3 +27,7 @@
 - Add the Daiya by small handfuls, stirring constantly
 - Make sure each addition is melted in before adding more
 - Once everything is smooth & creamy, stir in the pasta
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

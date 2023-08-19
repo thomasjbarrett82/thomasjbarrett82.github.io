@@ -1,3 +1,6 @@
+---
+permalink: /pasta/lasagna
+---
 # Lasagna
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - When ready, bake for 40 minutes
 - Remove foil and bake 20 more minutes
 - Remove from oven and let rest for 20 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

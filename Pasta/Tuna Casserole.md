@@ -1,3 +1,6 @@
+---
+permalink: /pasta/tuna-casserole
+---
 # Tuna Casserole
 
 ## Ingredients
@@ -33,3 +36,7 @@
 - Top with chips
 - Bake for 30 minutes uncovered
 - Remove and let cool at least 5 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

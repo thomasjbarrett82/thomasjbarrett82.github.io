@@ -1,3 +1,6 @@
+---
+permalink: /pasta/ragu-bolognese-ip
+---
 # Ragu Bolognese (IP)
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Stir in remaining ingredients
 - Season to taste with salt and pepper
 - Serve with tossed pasta
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

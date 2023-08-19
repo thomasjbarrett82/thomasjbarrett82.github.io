@@ -1,3 +1,6 @@
+---
+permalink: /pasta/baked-feta-pasta
+---
 # Baked Feta Pasta
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Remove and mash everything together
 - Mix in cream, Parmesan, garlic, and basil
 - Fold in pasta (and chicken) until combined
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

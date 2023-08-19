@@ -1,3 +1,6 @@
+---
+permalink: /pasta/sausage-pepper-baked-penne
+---
 # Sausage & Pepper Baked Penne
 
 ## Ingredients
@@ -29,3 +32,7 @@
 - Spoon remaining sauce over top
 - Sprinkle remaining cheese and parsley over top
 - Bake uncovered for 20 minutes until bubbly
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

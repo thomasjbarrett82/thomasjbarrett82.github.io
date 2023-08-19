@@ -1,3 +1,6 @@
+---
+permalink: /pasta/goulash-supreme
+---
 # Goulash Supreme
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Add the pasta and turn down to a simmer for 30 minutes
 - Remove from heat and remove the bay leaves
 - Let rest for 30 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

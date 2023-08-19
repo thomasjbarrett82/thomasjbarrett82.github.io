@@ -1,3 +1,6 @@
+---
+permalink: /pasta/spaghetti-sauce-ip
+---
 # Spaghetti Sauce (IP)
 
 ## Ingredients
@@ -33,3 +36,7 @@
 - If still runny, cook over Sauté heat until reduced
 - Taste and season with salt & pepper
 - Serve over cooked pasta
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

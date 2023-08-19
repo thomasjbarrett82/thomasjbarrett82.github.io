@@ -1,29 +1,50 @@
+---
+permalink: /pasta/mac-cheese-bake
+---
 # Mac & Cheese Bake
+
+Source: Tom
 
 ## Ingredients
 
-- 1 cup uncooked elbow macaroni
-- 2 cups corn flakes, crushed
-- ¼ cup + 2 tbsp butter, melted
-- 3 tbsp onion, minced
-- 1 can cream of mushroom soup
-- 1/3 cup milk
-- 1 ¼ cup shredded Cheddar
+- 1 lb. elbow macaroni, uncooked
+- 6 cups chicken broth
+- 1 cup half and half
+- 1 cup heavy cream
+- 8 oz sharp cheddar, shredded
+- 8 oz colby jack, shredded
+- 8 oz mozzarella, shredded
+- 8 oz American, cubed
+- 8 oz cream cheese, softened and cubed
+- 1 tsp smoked paprika
+- 2 tsp garlic powder
+- 1 tsp onion powder
+- 1/2 tsp mustard powder (or 1 tsp mustard)
+- 2 large eggs
+- Optional: breadcrumbs or crushed cornflakes
+- Optional: parsley
 
 ## Prep
 
-- Cook macaroni according to directions
-- Heat oven to 350° F
+- Heat oven to 350 F
+- Grease casserole dish
+- Heat stock pot over medium
+- In large bowl mix creams, half of cheddar and colby, and all of other cheeses
+- In small bowl whisk spices and eggs together
 
 ## Directions
 
-- Mix corn flakes with 2 tbsp butter for topping, set aside
-- Place remaining butter and onion in saucepan over low heat
-- Cook until tender
-- Stir in soup, milk, and cheese
-- Cook until cheese is melted, stirring occasionally
-- Remove from heat
-- Place cooked macaroni in buttered 8x8x2 baking dish
-- Pour cheese sauce over macaroni, stir to combine
-- Sprinkle with crumb mixture
-- Bake for 30 minutes
+- Fill stock pot with broth and bring to a boil
+- Add pasta and cook until under al dente
+- Remove from heat and drain water
+- Stir chese mixture and egg misture into the pasta
+- Pour entire mixture into casserole dish
+- Sprinkle remaining cheddar and colby over the top
+- Sprinkle crumbs over the top, if using
+- Sprinkle the top with a little smoked paprika and parsley, if desired
+- Bake for 30-35 minutes until bubbly and browned on top
+- Remove and cool for 10 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

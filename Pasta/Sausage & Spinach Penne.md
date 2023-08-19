@@ -1,3 +1,6 @@
+---
+permalink: /pasta/sausage-spinach-penne
+---
 # Sausage & Spinach Penne
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Add spinach, beans, and broth
 - Cook for 5 minutes
 - Return pasta to pot and toss to combine
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

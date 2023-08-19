@@ -1,3 +1,6 @@
+---
+permalink: /pasta/chicken-mushroom-alfredo
+---
 # Chicken & Mushroom Alfredo
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Add small handfuls of Parmesan to sauce, stirring constantly and waiting for cheese to melt before adding more
 - Pour over pasta
 - Add chicken mixture to pasta and stir to combine
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

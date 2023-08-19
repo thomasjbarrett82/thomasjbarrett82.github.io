@@ -1,3 +1,6 @@
+---
+permalink: /pasta/mac-cheese-gf
+---
 # Mac & Cheese (GF)
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Once everything is smooth & creamy, stir in the pasta
 - For extra-cheesy sauce, add another 8 oz. of Cheddar
 - For a dairy-free option, substitute dairy-free margarine, plain almond milk, and Daiya Cheddar in the same amounts
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

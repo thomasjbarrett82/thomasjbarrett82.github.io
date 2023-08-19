@@ -1,3 +1,6 @@
+---
+permalink: /pasta/pizza-casserole
+---
 # Pizza Casserole
 
 ## Ingredients
@@ -32,3 +35,7 @@
 Can be frozen before baking to cook later.
 Remove from freezer 1 day before to thaw.
 Bake for 1 hour covered and 15 minutes uncovered.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

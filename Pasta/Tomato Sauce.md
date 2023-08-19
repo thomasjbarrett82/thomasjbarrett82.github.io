@@ -1,3 +1,6 @@
+---
+permalink: /pasta/tomato-sauce
+---
 # Tomato Sauce
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Place casserole in oven for 3-4 hours
 - Remove and add fresh basil & oregano
 - Use an immersion blender or food processor to create the sauce
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
