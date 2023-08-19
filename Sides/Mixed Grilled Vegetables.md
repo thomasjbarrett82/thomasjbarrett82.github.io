@@ -1,3 +1,6 @@
+---
+permalink: /sides/mixed-grilled-vegetables
+---
 # Mixed Grilled Vegetables
 
 ## Ingredients
@@ -20,3 +23,7 @@
 - Combine all ingredients in a bowl
 - Toss to combine
 - Grill for 6-8 minutes until tender-crisp
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

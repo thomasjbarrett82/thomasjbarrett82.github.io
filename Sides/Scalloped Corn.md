@@ -1,3 +1,6 @@
+---
+permalink: /sides/scalloped-corn
+---
 # Scalloped Corn
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Mix corn, milk, butter, eggs, s&p, sugar, & crackers in casserole dish
 - Top with corn flakes
 - Bake for 40-50 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

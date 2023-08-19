@@ -1,3 +1,6 @@
+---
+permalink: /sides/black-beans-ip
+---
 # Black Beans (IP)
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Remove lid and discard the bay leaves
 - Season with salt & pepper to taste
 - Serve with cilantro sprinkled over the top
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

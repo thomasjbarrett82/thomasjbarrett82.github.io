@@ -1,3 +1,6 @@
+---
+permalink: /sides/grape-salad
+---
 # Grape Salad
 
 ## Ingredients
@@ -17,3 +20,7 @@
 - Fold in grapes until well combined
 - Top with brown sugar and walnuts
 - Let chill for at least an hour before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /sides/mcdonalds-french-fries
+---
 # McDonalds French Fries
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Heat tallow/lard in cast iron pan or fryer to 375° F
 - Fry until light golden brown, approximately 2-3 minutes
 - Remove and let drain, season lightly with salt
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,8 +1,12 @@
+---
+permalink: /sides/fridge-pickled-banana-peppers
+---
 # Fridge Pickled Banana Peppers
 
 ## Ingredients
 
 - 2 lbs. large banana peppers
+  - can also use other types of peppers or vegetables
 - 1 clove garlic, minced
 - 4 cups water
 - 2 cups white vinegar
@@ -19,3 +23,7 @@
 - Stir until dissolved
 - Pour over the peppers to cover
 - Add a lid and refrigerate for at least 2 days
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /sides/candied-yams
+---
 # Candied Yams
 
 ## Ingredients
@@ -24,3 +27,7 @@
 - Pour sauce over yams
 - Cover with marshmallows
 - Bake uncovered until mrshmallows are golden brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

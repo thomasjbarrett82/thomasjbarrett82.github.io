@@ -1,3 +1,6 @@
+---
+permalink: /sides/kimchi
+---
 # Kimchi
 
 Source: <https://mykoreankitchen.com/kimchi-recipe/>
@@ -37,3 +40,7 @@ Source: <https://mykoreankitchen.com/kimchi-recipe/>
 - Put lid on but don't tighten to allow for gas to escape
 - Leave out at room temperature for 24-48 hours
 - Transfer to fridge and let sit for 3+ days before eating
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

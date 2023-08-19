@@ -1,3 +1,6 @@
+---
+permalink: /sides/hash-brown-casserole
+---
 # Hash Brown Casserole
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Cover with crushed cornflakes
 - Drizzle with 2 tbsp butter
 - Bake for 55 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

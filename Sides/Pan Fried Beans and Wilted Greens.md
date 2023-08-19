@@ -1,3 +1,6 @@
+---
+permalink: /sides/pan-fried-beans-wilted-greens
+---
 # Pan Fried Beans and Wilted Greens
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Drizzle another 1-2 tsp. EVOO and serve
 
 Can also serve as a main course with some pasta or poached eggs.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

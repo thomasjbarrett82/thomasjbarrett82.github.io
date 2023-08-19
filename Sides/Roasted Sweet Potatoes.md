@@ -1,3 +1,6 @@
+---
+permalink: /sides/roasted-sweet-potatoes
+---
 # Roasted Sweet Potatoes
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Flip and roast for another 20 minutes until the other side is browned
 - Transfer back to the large bowl
 - Toss with the remaining 1 T. EVOO, parsley, and honey
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /sides/sweet-sour-brussels-sprouts
+---
 # Sweet & Sour Brussels Sprouts
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - In the drippings, cook the sprouts and onion until crisp-tender
 - Add remaining ingredients and simmer for 10 minutes until tender
 - Return bacon to pan and stir
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

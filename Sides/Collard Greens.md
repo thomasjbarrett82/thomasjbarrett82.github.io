@@ -1,3 +1,6 @@
+---
+permalink: /sides/collard-greens
+---
 # Collard Greens
 
 Source: Tom
@@ -28,3 +31,7 @@ Source: Tom
 - Remove cover and cook for another 5-10 minutes to evaporate most liquid
 - Stir in vinegar, tabasco, and liquid smoke (if using)
 - Add salt & pepper to taste
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

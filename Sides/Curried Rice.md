@@ -1,3 +1,6 @@
+---
+permalink: /sides/curried-rice
+---
 # Curried Rice
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Stir and cover
 - Reduce heat to low and let simmer for 20 minutes
 - When water is fully absorbed, fluff with a fork and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

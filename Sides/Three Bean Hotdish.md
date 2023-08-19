@@ -1,11 +1,15 @@
+---
+permalink: /sides/three-bean-hotdish
+---
 # Three Bean Hotdish
 
 ## Ingredients
 
 - 1# ground beef
+  - substitute mushrooms for vegetarian
 - ½ yellow onion, chopped
-- ½# bacon, chopped
-- 1 large can baked beans
+- ½# bacon, chopped (omit for vegetarian)
+- 1 large can baked beans (optionally vegetarian)
 - 1 can kidney beans, drained and rinsed
 - 1 can butter beans, drained and rinsed
 - ½ cup ketchup
@@ -26,3 +30,7 @@
 - Mix with remaining ingredients in crockpot
 - Cook on LOW for 4-6 hours
   - Or bake at 350° F for 45 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

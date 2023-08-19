@@ -1,3 +1,6 @@
+---
+permalink: /sides/scalloped-potatoes
+---
 # Scalloped Potatoes
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Layer potatoes in greased casserole dish
 - Pour sauce over potatoes and shake gently to mix it evenly
 - Place in oven and cook for 45-60 minutes, until potatoes are done
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /sides/stuffing
+---
 # Stuffing
 
 ## Ingredients
@@ -37,3 +40,7 @@
 - Transfer to casserole dish
 - Mix remaining ingredients into casserole dish
 - Bake for 45-60 minutes, covered with foil
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

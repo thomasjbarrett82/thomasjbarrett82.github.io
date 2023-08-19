@@ -1,3 +1,6 @@
+---
+permalink: /sides/brown-rice
+---
 # Brown Rice
 
 ## Ingredients
@@ -19,3 +22,7 @@
   - Cook on high/porridge for 15-20 minutes
   - Natural release for 5 minutes
 - Fluff with fork before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
