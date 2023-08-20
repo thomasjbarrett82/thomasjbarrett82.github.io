@@ -1,3 +1,6 @@
+---
+permalink: /desserts/mud-pies
+---
 # Mud Pies
 
 Source: @bdylanhollis
@@ -24,3 +27,7 @@ Source: @bdylanhollis
 - Add remaining ingredients
 - Roll/scoop into small balls and transfer to tray with wax paper
 - Cool in fridge for at least 1 hour
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

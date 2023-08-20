@@ -1,3 +1,6 @@
+---
+permalink: /desserts/chocolate-chip-cookies
+---
 # Chocolate Chip Cookies (Toll House)
 
 ## Ingredients
@@ -36,3 +39,7 @@
 
 - Spread dough into greased pan
 - Bake for 20-25 minutes until golden brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

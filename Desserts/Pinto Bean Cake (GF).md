@@ -1,3 +1,6 @@
+---
+permalink: /desserts/pinto-bean-cake-gf
+---
 # Pinto Bean Cake (GF)
 
 Source: @bdylanhollis
@@ -23,3 +26,7 @@ Source: @bdylanhollis
 - Transfer to greased pan
 - Bake for 45 minutes
 - Let cool at least 10 minutes before frosting and serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

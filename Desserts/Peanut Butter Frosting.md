@@ -1,3 +1,6 @@
+---
+permalink: /desserts/peanut-butter-frosting
+---
 # Peanut Butter Frosting
 
 ## Ingredients
@@ -13,3 +16,7 @@
 - Bring to a boil for 2 minutes
 - Remove from heat and let cool
 - Add peanut butter and beat thoroughly
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

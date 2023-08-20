@@ -1,3 +1,6 @@
+---
+permalink: /desserts/chocolate-pie-af
+---
 # Chocolate Pudding Pie (Allergen-Free)
 
 ## Ingredients
@@ -44,3 +47,7 @@
 - Remove from heat and let cool for 5 minutes.
 - Stir in vanilla and pour into prepared pie shell.
 - Refrigerate until completely set, 4 hours or overnight.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

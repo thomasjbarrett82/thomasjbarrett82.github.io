@@ -1,3 +1,6 @@
+---
+permalink: /desserts/brown-sugar-whipped-cream
+---
 # Brown Sugar Whipped Cream
 
 ## Ingredients
@@ -10,3 +13,7 @@
 ## Directions
 
 - Whisk the ingredients on high until fluffy & thick, about 5 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

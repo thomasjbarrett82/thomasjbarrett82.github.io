@@ -1,3 +1,6 @@
+---
+permalink: /desserts/chocolate-sheet-cake
+---
 # Chocolate Sheet Cake
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Stir the wet into the dry thoroughly
 - Bake 20 minutes until no wet remains
 - Remove and let cool before frosting
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

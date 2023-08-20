@@ -1,3 +1,6 @@
+---
+permalink: /desserts/black-bean-brownies-gf
+---
 # Black Bean Brownies (GF)
 
 Source: @bdylanhollis
@@ -29,3 +32,7 @@ Source: @bdylanhollis
 - Bake for 18-20 minutes
 - Let cool at least 10 minutes before serving
   - Optionally sprinkle with some more chocolate chips before it cools
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

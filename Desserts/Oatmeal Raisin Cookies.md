@@ -1,3 +1,6 @@
+---
+permalink: /desserts/oatmeal-raisin-cookies
+---
 # Oatmeal Raisin Cookies
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Bake 8-10 minutes until light golden brown
 
 Bar cookies: bake 30-35 minutes in an ungreased 9x13 baking pan
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

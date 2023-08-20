@@ -1,3 +1,6 @@
+---
+permalink: /desserts/wacky-cake-vegan
+---
 # Wacky Cake (Vegan)
 
 Source: @bdylanhollis
@@ -24,3 +27,7 @@ Source: @bdylanhollis
 - Add vinegar, oil, vanilla, & water to well and mix together
 - Bake 30-35 minutes
 - Let cool completely before frosting and serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

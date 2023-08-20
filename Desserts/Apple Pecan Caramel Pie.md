@@ -1,3 +1,6 @@
+---
+permalink: /desserts/apple-pecan-caramel-pie
+---
 # Apple Pecan Caramel Pie
 
 ## Ingredients
@@ -44,3 +47,7 @@
 - Spoon the caramel over the apple mixture
 - Arrange the toasted pecans over the top of the pie
 - Let cool completely before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

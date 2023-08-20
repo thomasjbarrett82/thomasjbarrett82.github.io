@@ -1,3 +1,6 @@
+---
+permalink: /desserts/avocado-ice-cream
+---
 # Avocado Ice Cream
 
 Source: @bdylanhollis
@@ -23,3 +26,7 @@ Source: @bdylanhollis
 - Slowly mix milk into eggs
 - Stir in cream, avocados, lemon juice
 - Freeze 4+ hours until firm
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

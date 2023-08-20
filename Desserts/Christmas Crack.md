@@ -1,3 +1,6 @@
+---
+permalink: /desserts/christmas-crack
+---
 # Christmas Crack
 
 Source: @bdylanhollis
@@ -26,3 +29,7 @@ Source: @bdylanhollis
 - Transfer to fridge for at least 1 hour
 - Remove from foil
 - Use a large knife to crack into small squares
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

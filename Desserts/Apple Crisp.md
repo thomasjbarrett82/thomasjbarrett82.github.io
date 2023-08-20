@@ -1,3 +1,6 @@
+---
+permalink: /desserts/apple-crisp
+---
 # Apple Crisp
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Bake for 45 minutes
 - Remove and let cool for at least 15 minutes
 - Serve with ice cream and/or sauce
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

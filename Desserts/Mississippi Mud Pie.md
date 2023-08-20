@@ -1,3 +1,6 @@
+---
+permalink: /desserts/mississippi-mud-pie
+---
 # Mississippi Mud Pie
 
 Source: Tom
@@ -73,3 +76,7 @@ Source: Tom
 - Whisk cream, vanilla, sugar until soft peaks form
 - Spoon on top of the pie
 - Garnish with pecans and chocolate
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

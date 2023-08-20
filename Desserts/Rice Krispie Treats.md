@@ -1,3 +1,6 @@
+---
+permalink: /desserts/rice-krispie-treats
+---
 # Rice Krispie Treats
 
 ## Ingredients
@@ -14,3 +17,7 @@
 - Add the cereal in and stir until thoroughly combined
 - Transfer to lightly greased casserole dish
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /desserts/cornstarch-cookies
+---
 # Cornstarch Cookies
 
 Source: @bdylanhollis
@@ -19,3 +22,7 @@ Source: @bdylanhollis
 - Scoop into small balls on parchment lined pan
 - Bake for 15-20 minutes
 - Let cool completely before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

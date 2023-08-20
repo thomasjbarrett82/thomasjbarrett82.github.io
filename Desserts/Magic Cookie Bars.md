@@ -1,3 +1,6 @@
+---
+permalink: /desserts/magic-cookie-bars
+---
 # Magic Cookie Bars
 
 Source: @bdylanhollis
@@ -21,3 +24,7 @@ Source: @bdylanhollis
 - Layer remaining ingredients
 - Bake for 30 mins
 - Let cool completely before cutting and serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

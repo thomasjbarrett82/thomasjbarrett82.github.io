@@ -1,3 +1,6 @@
+---
+permalink: /desserts/rice-krispie-treats-fancy
+---
 # Rice Krispie Treats
 
 Source: Alton Brown
@@ -21,3 +24,7 @@ Source: Alton Brown
 - Add the cereal back in and stir until thoroughly combined
 - Transfer to lightly greased casserole dish
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

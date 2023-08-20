@@ -1,13 +1,16 @@
+---
+permalink: /desserts/peppermint-patties
+---
 # Peppermint Patties
 
 Source: @bdylanhollis
 
 ## Ingredients
 
-- 1 cup sweetened condensed milk 
-- 1.5 tsp peppermint extract 
-- 5(ish) cups powdered sugar 
-- 4 cups melting chocolate 
+- 1 cup sweetened condensed milk
+- 1.5 tsp peppermint extract
+- 5(ish) cups powdered sugar
+- 4 cups melting chocolate
 - 2tsp shortening (or coconut oil)
 
 ## Prep
@@ -24,3 +27,7 @@ Source: @bdylanhollis
 - Use double boiler to melt chocolate and shortening
 - Carefully dip into chocolate with fork
 - Slide onto parchment to cool to room temp before refrigerating at least 30 mins
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

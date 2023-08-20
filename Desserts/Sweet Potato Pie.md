@@ -1,3 +1,6 @@
+---
+permalink: /desserts/sweet-potato-pie
+---
 # Sweet Potato Pie
 
 ## Ingredients
@@ -33,3 +36,7 @@
 - Bake 40 minutes until gently set and internal temp is 195 degrees F
 - Cool at least 20 minutes before cutting
 - Serve with whipped cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

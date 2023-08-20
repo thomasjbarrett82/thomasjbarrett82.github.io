@@ -1,3 +1,6 @@
+---
+permalink: /desserts/pumpkin-bars
+---
 # Pumpkin Bars
 
 ## Ingredients
@@ -44,3 +47,7 @@
 - Spread on fully cooled bars
   
 Refrigerate for at least 1 hour before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

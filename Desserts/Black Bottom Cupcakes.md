@@ -1,3 +1,6 @@
+---
+permalink: /desserts/black-bottom-cupcakes
+---
 # Black Bottom Cupcakes
 
 Source: Tara
@@ -38,3 +41,7 @@ Source: Tara
 - Fill each liner 1/3 full with dough, 1 tbsp. filling, then top with dough
 - Bake about 20 minutes
 - Remove and let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

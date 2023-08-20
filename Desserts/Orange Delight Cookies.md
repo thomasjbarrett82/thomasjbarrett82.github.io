@@ -1,3 +1,6 @@
+---
+permalink: /desserts/orange-delight-cookies
+---
 # Orange Delight Cookies
 
 ## Ingredients
@@ -36,3 +39,7 @@
 - Remove and cool
 - Mix the frosting ingredients in a separate bowl
 - Frost the cookies once they’ve finished cooling
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

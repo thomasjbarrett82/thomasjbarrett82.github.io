@@ -1,3 +1,6 @@
+---
+permalink: /desserts/cheesecake
+---
 # Cheesecake
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Bake for 45 minutes until it starts to turn golden brown on top
 - Remove and let cool in the fridge for at least 4 hours
 - Spread the preserves over the cheesecake before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

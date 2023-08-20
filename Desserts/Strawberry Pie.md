@@ -1,3 +1,6 @@
+---
+permalink: /desserts/strawberry-pie
+---
 # Strawberry Pie
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Pour into crust
 - Refrigerate until set, 4-6 hours
 - Serve with whipped cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

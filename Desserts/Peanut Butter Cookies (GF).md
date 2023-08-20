@@ -1,3 +1,6 @@
+---
+permalink: /desserts/peanut-butter-cookies-gf
+---
 # Peanut Butter Cookies (Gluten Free)
 
 ## Ingredients
@@ -18,3 +21,7 @@
 - Flatten mounds with a fork
 - Bake 10-12 minutes
 - Let cool completely before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

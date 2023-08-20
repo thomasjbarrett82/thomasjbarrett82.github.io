@@ -1,3 +1,6 @@
+---
+permalink: /desserts/old-fashioned-pie-dough
+---
 # Old Fashioned Pie Dough
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Preheat oven to 350 degrees F and move rack to low-middle
 - Fill with sugar
 - Cook with sugar inside to weight the crust for 1 hour, until golden brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

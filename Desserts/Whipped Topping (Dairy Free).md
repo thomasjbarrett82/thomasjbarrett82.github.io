@@ -1,3 +1,6 @@
+---
+permalink: /desserts/whipped-topping-df
+---
 # Whipped Topping (Dairy Free)
 
 ## Ingredients
@@ -16,3 +19,7 @@
 - Add to large bowl.
 - Add sugar and vanilla.
 - Mix on high for 5-6 minutes until light and creamy.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

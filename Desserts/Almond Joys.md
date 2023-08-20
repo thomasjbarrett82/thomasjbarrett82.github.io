@@ -1,3 +1,6 @@
+---
+permalink: /desserts/almond-joys
+---
 # Almond Joys
 
 Source: @bdylanhollis
@@ -25,3 +28,7 @@ Source: @bdylanhollis
 - Melt chocolate & shortening in a double boiler
 - Using fork, dip candy into chocolate
 - Set on parchment paper to cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

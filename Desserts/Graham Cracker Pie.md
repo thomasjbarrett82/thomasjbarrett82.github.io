@@ -1,3 +1,6 @@
+---
+permalink: /desserts/graham-cracker-pie
+---
 # Graham Cracker Pie
 
 ## Ingredients
@@ -43,3 +46,7 @@
 - Gently fold in the vanilla extract and spread mixture over pie filling
 - Sprinkle with reserved crumbs and bake for 12-15 mins until lightly browned
 - Chill in fridge for at least 4 hours before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

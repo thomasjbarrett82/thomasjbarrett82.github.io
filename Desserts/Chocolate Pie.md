@@ -1,3 +1,6 @@
+---
+permalink: /desserts/chocolate-pie
+---
 # Chocolate Pie
 
 ## Ingredients
@@ -34,3 +37,7 @@
 - Bake for 30-40 minutes at 350° until the filling is set
 - Let cool completely
 - Serve with high quality whipped cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

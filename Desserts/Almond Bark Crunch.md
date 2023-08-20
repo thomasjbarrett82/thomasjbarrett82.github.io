@@ -1,3 +1,6 @@
+---
+permalink: /desserts/almond-bark-crunch
+---
 # Almond Bark Crunch
 
 Source: Tara
@@ -18,3 +21,7 @@ Source: Tara
 - Melt bark in boiler
 - Add remaining ingredients and mix together
 - Drop onto waxed paper or greased cookie sheet and let cool to harden
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

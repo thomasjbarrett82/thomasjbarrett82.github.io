@@ -1,3 +1,6 @@
+---
+permalink: /desserts/white-rollout-christmas-cookies
+---
 # White Rollout Christmas Cookies
 
 Source: Tara
@@ -25,3 +28,7 @@ Source: Tara
 - Chill in fridge for 30 minutes
 - Roll out and cut into shapes
 - Bake until light brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /desserts/haystack-cookies
+---
 # Haystack Cookies
 
 Source: @bdylanhollis
@@ -15,3 +18,7 @@ Source: @bdylanhollis
 - Remove from heat  
 - Add noodles & peanuts
 - Dollop onto waxed paper to cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

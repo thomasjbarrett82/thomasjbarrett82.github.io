@@ -1,3 +1,6 @@
+---
+permalink: /desserts/peanut-butter-cups
+---
 # Peanut Butter Cups
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Add peanut butter ball
 - Cover with more chocolate
 - Place in fridge to cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

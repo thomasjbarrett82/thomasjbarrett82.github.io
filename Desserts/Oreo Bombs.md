@@ -1,3 +1,6 @@
+---
+permalink: /desserts/oreo-bombs
+---
 # Oreo Bombs
 
 Source: Tom
@@ -27,3 +30,7 @@ Source: Tom
 - Decorate, if desired
 - Place back on tray and refrigerate for 1+ hour
 - Store in airtight container for up to 3 weeks
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /desserts/pumpkin-pie-af
+---
 # Pumpkin Pie (Allergen Free)
 
 ## Ingredients
@@ -40,3 +43,7 @@
 - Back until filling is set but slightly wobbly in center
 - 40-45 minutes
 - Toothpick inserted into center will come out mostly clean
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

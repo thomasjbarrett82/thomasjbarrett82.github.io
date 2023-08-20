@@ -1,3 +1,6 @@
+---
+permalink: /desserts/pound-cake
+---
 # Pound Cake
 
 Source: @bdylanhollis
@@ -22,4 +25,7 @@ Source: @bdylanhollis
 - Add to cake pan
 - Bake for 80-100 mins
 - Let cool before serving with fruit and ice cream/whipped cream
-- 
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

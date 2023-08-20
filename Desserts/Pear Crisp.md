@@ -1,3 +1,6 @@
+---
+permalink: /desserts/pear-crisp
+---
 # Pear Crisp
 
 ## Ingredients
@@ -34,3 +37,7 @@ Optional vanilla ice cream & caramel sauce for serving
 - Sprinkle some more cinnamon over top
 - Bake for 45 minutes
 - Let cool 5-10 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

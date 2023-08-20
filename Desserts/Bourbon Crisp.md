@@ -1,3 +1,6 @@
+---
+permalink: /desserts/bourbon-crisp
+---
 # Bourbon Crisp
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Next, add the topping ingredients in a mixing bowl, cutting the butter into the dry ingredients until you get a course crumble.
 - Spread the topping over the top of the fruit mixture and bake for 30-40 minutes or until browned and crispy.
 - Cool slightly before serving. Serve with vanilla ice cream if desired.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

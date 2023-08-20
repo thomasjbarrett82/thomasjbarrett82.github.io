@@ -1,3 +1,6 @@
+---
+permalink: /desserts/apple-cider-cookies
+---
 # Apple Cider Cookies
 
 Source: @bdylanhollis
@@ -36,3 +39,7 @@ Source: @bdylanhollis
 - Bake for 15-17 mins
 - Mix melted butter and 1/3 cup cider with enough powdered sugar to make frosting
 - Drizzle over cookies and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

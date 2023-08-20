@@ -1,3 +1,6 @@
+---
+permalink: /desserts/potato-chip-cookies
+---
 # Potato Chip Cookies
 
 Source: @bdylanhollis
@@ -27,3 +30,7 @@ Source: @bdylanhollis
 - Arrange balls on baking pan with parchment paper
 - Bake for 15 mins
 - Let cool before eating
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

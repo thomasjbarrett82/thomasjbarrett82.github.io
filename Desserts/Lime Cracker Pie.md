@@ -1,3 +1,6 @@
+---
+permalink: /desserts/lime-cracker-pie
+---
 # Lime Cracker Pie
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Repeat layering until full, finishing with filling
 - Sprinkle with zest
 - Refrigerate 2-12 hours before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

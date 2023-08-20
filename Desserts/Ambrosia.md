@@ -1,3 +1,6 @@
+---
+permalink: /desserts/ambrosia
+---
 # Ambrosia
 
 Source: @bdylanhollis
@@ -20,3 +23,7 @@ Source: @bdylanhollis
 - Gently fold in oranges
 - Chill in fridge for 1+ hours
 - Fold in marshmallows before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

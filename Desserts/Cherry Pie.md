@@ -1,3 +1,6 @@
+---
+permalink: /desserts/cherry-pie
+---
 # Cherry Pie
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Bake for 15 minutes
 - Remove and let cool for ~3 hours
 - Serve with whipped cream or vanilla ice cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

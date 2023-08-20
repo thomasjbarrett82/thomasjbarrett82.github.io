@@ -1,3 +1,6 @@
+---
+permalink: /desserts/special-k-bars
+---
 # Special K Bars
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Microwave in 30 second intervals, stirring, until melted
 - Pour evenly over cereal to frost
 - Refrigerate for 30+ minutes before cutting into bars
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /desserts/popcorn-cake
+---
 # Popcorn Cake
 
 ## Ingredients
@@ -17,3 +20,7 @@
 - Mix remaining ingredients together
 - Pour into greased angel food pan
 - Let cool and tip out when done
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

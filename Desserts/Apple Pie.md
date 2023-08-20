@@ -1,3 +1,6 @@
+---
+permalink: /desserts/apple-pie
+---
 # Apple Pie
 
 - Source: Serious Eats (BraveTart)
@@ -41,3 +44,7 @@
 - Place pie on a lined sheet pan in the oven
 - Bake for 65-75 minutes until 195 F in the center
 - Remove and cool at least 1 hours before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

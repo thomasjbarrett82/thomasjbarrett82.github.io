@@ -1,3 +1,6 @@
+---
+permalink: /desserts/cowboy-cookies
+---
 # Cowboy Cookies
 
 Source: @bdylanhollis
@@ -32,3 +35,7 @@ Source: @bdylanhollis
 - Scoop into small balls on parchment lined pan
 - Bake for 11-12 minutes
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

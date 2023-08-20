@@ -1,3 +1,6 @@
+---
+permalink: /desserts/chocolate-mayo-cake
+---
 # Chocolate Mayo Cake
 
 Source: @bdylanhollis
@@ -23,3 +26,7 @@ Source: @bdylanhollis
 - Pour into baking dish
 - Bake for 30 mins or until toothpick comes out clean
 - Allow to cool completely before frosting
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

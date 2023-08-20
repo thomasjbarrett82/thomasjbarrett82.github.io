@@ -1,3 +1,6 @@
+---
+permalink: /desserts/corn-sugar-cookies
+---
 # Corn Sugar Cookies
 
 Source: @bdylanhollis
@@ -27,3 +30,7 @@ Source: @bdylanhollis
 - Arrange on parchment lined pan
 - Bake for 8-10 minutes
 - Let cool before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

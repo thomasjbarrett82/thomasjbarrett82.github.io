@@ -1,3 +1,6 @@
+---
+permalink: /desserts/candy-cane-cookies
+---
 # Candy Cane Cookies
 
 Source: Tara
@@ -26,3 +29,7 @@ Source: Tara
 - Spoon out onto cookie sheet
 - Bake for 8-10 minutes
 - Remove and let cool
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

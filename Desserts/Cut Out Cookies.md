@@ -1,3 +1,6 @@
+---
+permalink: /desserts/cut-out-cookies
+---
 # Cut Out Cookies
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Stir dry into wet, avoiding overmixing
 - Drop by spoonful onto baking pan
 - Bake for 6-7 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

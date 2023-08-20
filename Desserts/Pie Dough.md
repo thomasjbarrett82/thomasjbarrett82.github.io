@@ -1,3 +1,6 @@
+---
+permalink: /desserts/pie-dough
+---
 # Pie Dough
 
 ## Ingredients
@@ -20,3 +23,7 @@
 - Fold into halves 2 or 3 times
 - Divide the block into 2 pieces
 - Wrap tightly in plastic and chill for at least 2 hours before using
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

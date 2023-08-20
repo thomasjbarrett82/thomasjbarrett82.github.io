@@ -1,3 +1,6 @@
+---
+permalink: /desserts/peanut-butter-krispie-bars
+---
 # Peanut Butter Krispie Bars
 
 ## Ingredients
@@ -17,3 +20,7 @@
 - Melt together peanut butter, sugar, and butter
 - Stir in Rice Krispies and press into casserole dish
 - Melt chips and pour over as frosting
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

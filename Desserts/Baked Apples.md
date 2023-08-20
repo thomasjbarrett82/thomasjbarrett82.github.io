@@ -1,3 +1,6 @@
+---
+permalink: /desserts/baked-apples
+---
 # Baked Apples
 
 Source: @bdylanhollis
@@ -25,3 +28,7 @@ Source: @bdylanhollis
 - Add water to dish around apples
 - Bake for 30 mins
 - Let cool before serving with vanilla ice cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

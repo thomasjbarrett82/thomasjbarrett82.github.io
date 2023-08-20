@@ -1,3 +1,6 @@
+---
+permalink: /desserts/apple-squares
+---
 # Apple Squares
 
 Source: Tara
@@ -40,3 +43,7 @@ Source: Tara
 - Bake for 1 hour
 - Remove and cool before serving
 - (Optional) drizzle frosting over top after cooling
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
