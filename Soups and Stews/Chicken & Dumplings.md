@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/chicken-dumplings
+---
 # Chicken & Dumplings
 
 ## Ingredients
@@ -29,3 +32,7 @@
 - Add milk and stir until just moistened
 - Drop batter by teaspoon into pot
 - Replace cover and boil gently for 12 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

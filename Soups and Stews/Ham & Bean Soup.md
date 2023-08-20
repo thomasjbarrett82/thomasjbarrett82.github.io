@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/ham-bean-soup
+---
 # Ham & Bean Soup
 
 ## Ingredients
@@ -19,3 +22,7 @@
 
 - Add all ingredients into crockpot
 - Cook on LOW for 6 hours
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

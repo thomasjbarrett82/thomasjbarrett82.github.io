@@ -1,4 +1,7 @@
-# Mushroom & Chicken Stew
+---
+permalink: /soups-and-stews/chicken-mushroom-stew
+---
+# Chicken & Mushroom Stew
 
 ## Ingredients
 
@@ -25,3 +28,7 @@
 - Sautee chicken on both sides until browned, remove and cube
 - Add chicken and remaining ingredients to crockpot
 - Cover and cook on LOW for 6-7 hours
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/jambalaya
+---
 # Jambalaya
 
 ## Ingredients
@@ -39,3 +42,7 @@
 - Stir in shrimp and cook for another 5 minutes
 - Remove bay leaves and let rest, covered, for 10-15 minutes
 - Serve with additional hot sauce
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

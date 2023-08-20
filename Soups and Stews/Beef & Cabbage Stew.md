@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/beef-cabbage-stew
+---
 # Beef & Cabbage Stew
 
 ## Ingredients
@@ -28,3 +31,7 @@
 - Add remaining ingredients
 - Secure the lid and cook at Stew setting (high) for 60 minutes
 - Set to Slow Cook for at least 30 minutes before releasing pressure
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

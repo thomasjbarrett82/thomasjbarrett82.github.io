@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/chicken-noodle-soup
+---
 # Chicken Noodle Soup
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Skim any foam that may rise
 - Add chicken, noodles/rice, parsley, and remaining broth
 - Simmer until noodles/rice are tender, 5/20 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

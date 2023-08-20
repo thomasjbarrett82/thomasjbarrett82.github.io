@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/pasta-fagioli-ip
+---
 # Pasta Fagioli (IP)
 
 ## Ingredients
@@ -33,3 +36,7 @@
 - Lock lid and cook for 10 minutes
 - Allow pressure to naturally release
 - Serve with fresh basil and grated Parmesan cheese
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/chili
+---
 # Chili
 
 Source: Tara
@@ -27,3 +30,7 @@ Source: Tara
 - Add tortilla chips, if using
 - Cook for 2-3 hours
 - Serve with cheese and sour cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

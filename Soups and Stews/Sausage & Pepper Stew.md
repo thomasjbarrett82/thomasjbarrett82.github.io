@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/sausage-pepper-stew
+---
 # Sausage & Pepper Stew
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Deglaze with chicken stock
 - Add remaining ingredients
 - Bring to a boil, then cover and simmer until rice is soft, 20 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/pasta-fagioli
+---
 # Pasta Fagioli
 
 ## Ingredients
@@ -20,3 +23,7 @@
 - Combine all ingredients except pasta in crockpot
 - Cook on LOW for 8-10 hours or HIGH for 4-5 hours
 - Add pasta and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

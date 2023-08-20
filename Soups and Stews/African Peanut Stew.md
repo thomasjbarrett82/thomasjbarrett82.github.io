@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/african-peanut-stew
+---
 # African Peanut Stew
 
 Source: Tom
@@ -28,3 +31,7 @@ Source: Tom
 - Stir in potatoes, beans, stock
 - Cook on LOW for 6-8 hours until potatoes are tender
 - Stir in kale 30-45 minutes before done
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

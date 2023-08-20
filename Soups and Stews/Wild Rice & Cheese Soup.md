@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/wild-rice-cheese-soup
+---
 # Wild Rice & Cheese Soup
 
 ## Ingredients
@@ -20,3 +23,7 @@
 - Cook onion in bacon fat for 5 minutes
 - Return bacon and stir in remaining ingredients
 - Cook for 5-10 minutes until heated through
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

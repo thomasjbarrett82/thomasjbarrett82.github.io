@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/sausage-tortellini-soup
+---
 # Sausage Tortellini Soup
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Add tortellini and spinach
 - Turn to low and cover
 - Cook for 20-30 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

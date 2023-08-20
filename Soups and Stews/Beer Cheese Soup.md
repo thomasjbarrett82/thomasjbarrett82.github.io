@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/beer-cheese-soup
+---
 # Beer Cheese Soup
 
 ## Ingredients
@@ -28,3 +31,7 @@
 - Slowly add cheese by small handfuls, waiting until melted to add more
 - Do not boil
 - Serve when all cheese is melted into soup
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

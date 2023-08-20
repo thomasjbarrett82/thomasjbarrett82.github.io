@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/corn-soup
+---
 # Corn Soup
 
 ## Ingredients
@@ -27,3 +30,7 @@
 ## PRESSURE COOKER
 
 - After adding all ingredients, cover and cook for 10 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

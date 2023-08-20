@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/black-bean-soup
+---
 # Black Bean Soup
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Cook for 1 ½ hours, stirring occasionally to prevent sticking.
 - Add stock if too much liquid is absorbed.
 - Serve with bacon & hot sauce on the side.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

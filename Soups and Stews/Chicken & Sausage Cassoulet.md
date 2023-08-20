@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/chicken-sausage-cassoulet
+---
 # Chicken & Sausage Cassoulet
 
 ## Ingredients
@@ -19,3 +22,7 @@
 - In crockpot, combine beans, juice, carrots, celery, onion, garlic, granules, basil, and oregano
 - Place chicken and sausage on top of mixture
 - Cover, cook on LOW 10 hours or HIGH 5 hours until chicken is fork-tender
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

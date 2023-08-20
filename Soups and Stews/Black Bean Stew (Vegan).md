@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/black-bean-stew-vegan
+---
 # Black Bean Stew (Vegan)
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Add remaining ingredients
 - Cook on high pressure for 20 minutes
 - Natural release for 10 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

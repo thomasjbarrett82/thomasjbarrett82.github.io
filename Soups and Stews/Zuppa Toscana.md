@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/zuppa-toscana
+---
 # Zuppa Toscana
 
 Source: Tom
@@ -35,3 +38,7 @@ Source: Tom
 - Make a slurry with half and half and cornstarch
 - Add to pot and stir until thickened
 - Turn off heat and serve with Parmesan cheese
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

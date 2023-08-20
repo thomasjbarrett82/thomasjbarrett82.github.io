@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/potato-soup
+---
 # Potato Soup
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Let simmer until potatoes are tender
 - Use potato masher or immersion blender to break up potatoes and thicken soup
 - Stir in crumbled bacon and serve with cheese sprinkled over top
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

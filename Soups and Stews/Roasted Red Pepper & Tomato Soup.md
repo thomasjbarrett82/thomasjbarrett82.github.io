@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/roasted-red-pepper-tomato-soup
+---
 # Roasted Red Pepper & Tomato Soup
 
 ## Ingredients
@@ -29,3 +32,7 @@
 - Chill for 3-24 hours to let flavors mix together
 - Garnish with heavy cream, if desired
 - Serve hot or cold
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

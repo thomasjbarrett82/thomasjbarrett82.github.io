@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/beef-stew
+---
 # Beef Stew
 
 ## Ingredients
@@ -36,3 +39,7 @@
 - Add the potatoes and carrots and braise for another hour
 - Remove and let cool for at least 20 minutes
 - Remove the bay leaf before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

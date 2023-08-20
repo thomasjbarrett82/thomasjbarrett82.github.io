@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/beef-mushroom-soup
+---
 # Beef & Mushroom Soup
 
 ## Ingredients
@@ -33,3 +36,7 @@
 - Skim fat with ladle (ice cube inside to help fat congeal)
 - Add remaining ingredients and let simmer for another ½ hour
 - Season with salt & pepper to taste
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

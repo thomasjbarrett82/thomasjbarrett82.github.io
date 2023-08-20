@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/minestrone
+---
 # Minestrone
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Drain and move to crockpot
 - Stir in remaining ingredients
 - Cook on low for 5-6 hours
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

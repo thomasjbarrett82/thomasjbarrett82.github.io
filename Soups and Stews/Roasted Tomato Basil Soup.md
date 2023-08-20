@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/roasted-tomato-basil-soup
+---
 # Roasted Tomato Basil Soup
 
 ## Ingredients
@@ -28,3 +31,7 @@
 - Cook on HIGH for 3-4 hours
 - Add basil, milk, and salt & pepper
 - Cook for another 30 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

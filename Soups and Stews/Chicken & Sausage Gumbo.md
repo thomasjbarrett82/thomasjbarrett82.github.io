@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/chicken-sausage-gumbo
+---
 # Chicken & Sausage Gumbo
 
 ## Ingredients
@@ -39,3 +42,7 @@
 - Bring to a boil and simmer for 30 minutes
 - Add shrimp and okra and cook for 10 minutes until shrimp is done
 - Serve over rice
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

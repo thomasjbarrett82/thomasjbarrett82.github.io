@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/garlic-butternut-squash-soup
+---
 # Garlic Butternut Squash Soup
 
 ## Ingredients
@@ -28,3 +31,7 @@
 - OR use food processor or blender
 - Add green onions
 - Season to taste
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

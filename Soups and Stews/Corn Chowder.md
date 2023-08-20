@@ -1,4 +1,7 @@
-# Corn Chowder with Roasted Poblano
+---
+permalink: /soups-and-stews/corn-chowder
+---
+# Corn Chowder
 
 ## Ingredients
 
@@ -30,3 +33,7 @@
 - Stir in the chilis and potatoes
 - Add in remaining ingredients
 - Simmer until thickened (25-30 minutes)
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

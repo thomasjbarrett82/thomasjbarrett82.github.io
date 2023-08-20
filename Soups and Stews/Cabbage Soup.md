@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/cabbage-soup
+---
 # Cabbage Soup
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Bring to a boil and drop to a simmer for 20-30 minutes
 - Add lemon juice
 - Add salt and pepper, to taste
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

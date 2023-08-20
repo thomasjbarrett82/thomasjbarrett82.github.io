@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/ham-sauerkraut-stew
+---
 # Ham and Sauerkraut Stew
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Return meat to pot, add stock, sauerkraut, beans, & seasoning
 - Cover and simmer for another 30 minutes
 - Season with salt & pepper before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/chicken-tortilla-soup
+---
 # Chicken Tortilla Soup
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Cover and simmer for 30 minutes
 - Add avocado and squeeze lime into pot
 - Serve with chips
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

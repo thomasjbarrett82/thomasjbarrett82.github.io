@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/white-chicken-chili
+---
 # White Chicken Chili
 
 ## Ingredients
@@ -40,3 +43,7 @@
 - Stir in half of pepper Jack, along with lime juice and cream cheese
 - Season to taste
 - Serve with remaining cheese, cilantro, green onions
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

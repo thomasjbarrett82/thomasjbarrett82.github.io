@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/hot-sour-soup
+---
 # Hot and Sour Soup
 
 Source: Tom
@@ -32,3 +35,7 @@ Source: Tom
 - Add cornstarch mixture and stir for 1-2 minutes until thickened
 - Stir in circular motion and drizzle eggs to make ribbons
 - Add remaining ingredients and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

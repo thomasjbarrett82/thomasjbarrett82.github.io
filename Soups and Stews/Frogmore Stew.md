@@ -1,3 +1,6 @@
+---
+permalink: /soups-and-stews/frogmore-stew
+---
 # Frogmore Stew
 
 ## Ingredients
@@ -19,3 +22,7 @@
 - Add corn and cook for 10 minutes
 - Add seafood and cook for 5 minutes, until done
 - Drain and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
