@@ -1,5 +1,5 @@
 ---
-permalink: /desserts/chocolate-pie-af
+permalink: /desserts/chocolate-pudding-pie-af
 ---
 # Chocolate Pudding Pie (Allergen-Free)
 
