@@ -1,3 +1,6 @@
+---
+permalink: /main/fried-rice
+---
 # Fried Rice
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Scramble the egg and then toss with rice
 - Add frozen peas and continue to toss until fully thawed
 - Serve immediately
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

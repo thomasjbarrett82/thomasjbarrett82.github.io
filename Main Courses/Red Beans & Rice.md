@@ -1,3 +1,6 @@
+---
+permalink: /main/red-beans-rice
+---
 # Red Beans & Rice
 
 ## Ingredients
@@ -40,3 +43,7 @@
 - Discard bay leaf (and ham hock bone, if using)
 - Stir in the Worcestershire and add hot sauce to taste
 - Serve over cooked rice
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

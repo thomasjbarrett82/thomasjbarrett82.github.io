@@ -1,3 +1,6 @@
+---
+permalink: /main/beef-bourguignon
+---
 # Beef Bourguignon
 
 ## Ingredients
@@ -37,3 +40,7 @@
 - Cover and transfer to oven for 3-4 hours until fall-apart tender
 - Brown mushrooms in butter and add to the pot
 - Serve with potatoes, rice, or noodles, and vegetables
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

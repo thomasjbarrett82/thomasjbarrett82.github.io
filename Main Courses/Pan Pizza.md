@@ -1,3 +1,6 @@
+---
+permalink: /main/pan-pizza
+---
 # Pan Pizza
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Add other toppings, if desired
 - Sprinkle with Parmesan
 - Transfer to oven and cook until crispy and golden brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

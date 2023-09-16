@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-stir-fry
+---
 # Chicken Stir-Fry
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Return chopped chicken to skillet and stir together
 - Add sauce to skillet and bring to a boil to thicken
 - Serve over rice
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-yellow-rice-ip
+---
 # Chicken & Yellow Rice (Instant Pot)
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Allow pressure to lower naturally for 15 minutes
 - Vent any remaining pressure
 - Mix chicken into the rice & vegetables before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

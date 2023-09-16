@@ -1,3 +1,6 @@
+---
+permalink: /main/old-fashioned-pot-roast
+---
 # Old Fashioned Pot Roast (IP)
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Add the slurry back to the pot and sauté until thickened
 - Transfer gravy to a serving vessel
 - Season everything with salt & pepper to taste
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

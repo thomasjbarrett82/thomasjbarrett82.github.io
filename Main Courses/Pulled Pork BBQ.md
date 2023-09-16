@@ -1,3 +1,6 @@
+---
+permalink: /main/pulled-pork-bbq
+---
 # Pulled Pork BBQ
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Cook until internal temp is 195 degrees F
 - If necessary, cover with foil and move into oven to cook faster (350)
 - Remove and let rest for at least 30 minutes before shredding
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

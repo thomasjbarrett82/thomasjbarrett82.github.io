@@ -1,3 +1,6 @@
+---
+permalink: /main/twice-smoked-glazed-spiral-ham
+---
 # Twice Smoked Glazed Spiral Ham
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Brush the glaze liberally over the ham
 - Place under a broiler for 2-3 minutes until glaze starts to caramelize
 - Serve with drippings on the side
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

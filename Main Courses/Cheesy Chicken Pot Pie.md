@@ -1,3 +1,6 @@
+---
+permalink: /main/cheesy-chicken-pot-pie
+---
 # Cheesy Chicken Pot Pie
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Bake for 40 minutes
 - Sprinkle remaining cheese over crust
 - Bake 5 minutes until cheese is melted
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

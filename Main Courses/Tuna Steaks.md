@@ -1,3 +1,6 @@
+---
+permalink: /main/tuna-steaks
+---
 # Tuna Steaks
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Place 2 tbsp of oil in hot skillet
 - Cook steaks for 2 ½ minutes on one side, 2 minutes on the other side
 - Center of steaks will still be pink
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

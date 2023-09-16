@@ -1,3 +1,6 @@
+---
+permalink: /main/tamale-pie
+---
 # Tamale Pie
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Spread corn bread mix over the top
 - Place in oven and bake until corn bread is done
 - Serve with salsa and sour cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

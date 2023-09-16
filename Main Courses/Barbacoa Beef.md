@@ -1,3 +1,6 @@
+---
+permalink: /main/barbacoa-beef-ip
+---
 # Barbacoa Beef (IP)
 
 Source: Tom
@@ -34,3 +37,7 @@ Source: Tom
 - Let pressure naturally release
 - Discard bay leaves
 - Shred beef before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

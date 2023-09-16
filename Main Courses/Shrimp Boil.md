@@ -1,3 +1,6 @@
+---
+permalink: /main/shrimp-boil
+---
 # Shrimp Boil
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Cook for 5-10 minutes until shrimp is cooked (don’t go too long)
 - Drain well
 - Spread parchment paper in large sheet pan and pour everything into pan for serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

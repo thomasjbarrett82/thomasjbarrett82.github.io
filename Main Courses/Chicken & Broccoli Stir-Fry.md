@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-broccoli-stir-fry
+---
 # Chicken & Broccoli Stir Fry
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Add garlic, broccoli, and sauce to pan.
 - Stir-fry until broccoli is heated through.
 - Serve over rice.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

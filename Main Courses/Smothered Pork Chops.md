@@ -1,3 +1,6 @@
+---
+permalink: /main/smothered-pork-chops
+---
 # Smothered Pork Chops
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Add chops back to pan, covering with the gravy
 - Turn heat to low
 - Cover and slow cook for 3-4 hours before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/crispy-roast-turkey-gravy
+---
 # Crispy Roast Turkey with Gravy
 
 ## Ingredients
@@ -39,3 +42,7 @@
 - Add the liquid back to the pot in a slow stream until re-incorporated
 - Add any additional juices from the roasted turkey, if desired
 - Bring to a boil and then simmer until reduced to a gravy texture
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

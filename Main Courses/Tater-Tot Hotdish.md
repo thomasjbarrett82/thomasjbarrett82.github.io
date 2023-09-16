@@ -1,3 +1,6 @@
+---
+permalink: /main/tater-tot-hotdish
+---
 # Tater-Tot Hotdish
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Bake for 45 minutes
 - Sprinkle cheddar over top and bake for 5 minutes
 - Remove from oven and let rest for 5 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

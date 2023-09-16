@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-marinade
+---
 # Chicken Marinade
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Place chicken in large Ziploc bag and pour marinade over top
 - Remove air and close securely
 - Marinate for 4-24 hours before cooking
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/greek-style-shrimp-cannellini-beans
+---
 # Greek-style Shrimp & Cannellini Beans
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Place packets on large baking pan
 - Bake in oven for 15-20 minutes until cooked through
 - Transfer to serving plates and garnish with feta cheese
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

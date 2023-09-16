@@ -1,3 +1,6 @@
+---
+permalink: /main/portabella-burgers
+---
 # Portabella Burgers
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Grill mushrooms and skewers until browned
 - Assemble burgers
   - Bun – mushroom – cheese – pepper – onion – avocado - Bun
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/bourbon-glazed-steak-tips
+---
 # Bourbon Glazed Steak Tips
 
 ## Ingredients
@@ -29,3 +32,7 @@
 - Continue cooking until glaze has caramelized and darkened to a rich brown
 - The tips should have enough salt from the soy sauce, but you can taste them at this stage and add more salt if needed.
 - Remove from heat, allowing 2-3 minutes to cool, then serve.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-wild-rice-hotdish
+---
 # Chicken Wild Rice Hotdish
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Cook until the chicken is cooked through
 - Add all ingredients to the casserole dish and mix together
 - Bake for 1 hour
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

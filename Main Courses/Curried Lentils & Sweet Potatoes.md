@@ -1,3 +1,6 @@
+---
+permalink: /main/curried-lentils-sweet-potatoes
+---
 # Curried Lentils & Sweet Potatoes
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Cook until potatoes and lentils are tender, ~30 minutes
 - Stir in peas and heat through
 - Garnish with sour cream, if desired.
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

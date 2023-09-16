@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-broccoli-hotdish
+---
 # Chicken Broccoli Hotdish
 
 ## Ingredients
@@ -24,3 +27,7 @@
 - Combine everything in a greased casserole dish
 - Cook uncovered for 1 hour
 - Let cool at least 5 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

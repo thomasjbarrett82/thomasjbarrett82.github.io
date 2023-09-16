@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-enchiladas-ip
+---
 # Chicken Enchiladas (Instant Pot)
 
 ## Ingredients
@@ -38,3 +41,7 @@
 - Assemble enchiladas by scooping meat mix into tortillas and placing in the casserole dish seam-side down, then layer cheese and sauce over the top
 - Bake for 25 minutes
 - Remove and let cool 5 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/taco-tot-hotdish
+---
 # Taco-tot Hotdish
 
 ## Ingredients
@@ -22,3 +25,7 @@
 - Layer corn and then soup over the top
 - Cover with tater-tots
 - Bake for 45 minutes until lightly browned on top
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

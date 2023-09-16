@@ -1,3 +1,6 @@
+---
+permalink: /main/shrimp-fra-diavolo
+---
 # Shrimp Fra Diavolo
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Return shrimp to skillet and cook for another minute or two
 - Stir in parsley and basil
 - Add more salt if needed, and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

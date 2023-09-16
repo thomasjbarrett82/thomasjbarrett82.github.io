@@ -1,3 +1,6 @@
+---
+permalink: /main/pork-rub
+---
 # Pork Rub
 
 ## Ingredients
@@ -12,3 +15,7 @@
 - 1 T. black pepper
 - 1 T. Italian seasoning
 - 1 t. ginger
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

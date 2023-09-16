@@ -1,3 +1,6 @@
+---
+permalink: /main/smoked-rack-pork
+---
 # Smoked Rack of Pork
 
 ## Ingredients
@@ -19,3 +22,7 @@
 - Cook until internal temp is 145 F
 - Remove and let rest for at least 10 minutes
 - Slice between ribs to serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

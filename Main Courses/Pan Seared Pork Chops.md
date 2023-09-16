@@ -1,3 +1,6 @@
+---
+permalink: /main/pan-seared-pork-chops
+---
 # Pan Seared Pork Chops
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Pick up the chops with tongs to sear the fat caps on the sides
 - Transfer the chops to a plate and let rest for 5 minutes before serving
 - Just before serving, reheat the drippings until smoking, then pour over the chops
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

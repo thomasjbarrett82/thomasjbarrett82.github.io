@@ -1,3 +1,6 @@
+---
+permalink: /main/fried-chicken-sandwiches
+---
 # Fried Chicken Sandwiches
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Flip with tongs and cook for 2-3 more minutes
 - Transfer to plate with a paper towel on it for drainage
 - Assemble sandwiches (bun – pickles – chicken – bun)
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

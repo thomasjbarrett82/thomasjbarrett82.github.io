@@ -1,3 +1,6 @@
+---
+permalink: /main/beans-rice
+---
 # Beans & Rice
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Stir in tomatoes
 - Season to taste
 - Serve with salsa, cheese, and sour cream
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

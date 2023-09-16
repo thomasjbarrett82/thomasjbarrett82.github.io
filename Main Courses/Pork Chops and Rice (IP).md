@@ -1,3 +1,6 @@
+---
+permalink: /main/pork-chops-rice-ip
+---
 # Pork Chops and Rice (IP)
 
 ## Ingredients
@@ -29,3 +32,7 @@
 - Close and seal the pot
 - Cook on high pressure for 10 (white rice) or 15 (brown rice) minutes
 - Let pressure naturally release for 5 minutes, and then quick release
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

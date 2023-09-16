@@ -1,3 +1,6 @@
+---
+permalink: /main/santa-fe-chicken
+---
 # Santa Fe Chicken
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Brown chicken on both sides, remove and shred
 - Place all ingredients in crockpot
 - Cook on LOW for 8-10 hours
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/pizza-pizza
+---
 # Pizza Pizza
 
 ## Ingredients
@@ -33,3 +36,7 @@
 - Sprinkle toppings and cheese over the sauce
 - Bake for 7-10 minutes until golden brown and bubbly
 - Rest for 3-5 minutes before slicing and serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

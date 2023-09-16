@@ -1,3 +1,6 @@
+---
+permalink: /main/baked-pork-chops-rice
+---
 # Baked Pork Chops & Rice
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Pour reserved gravy over the chops
 - Place in the oven and bake for 40-45 minutes, until chops are done
 - Serve with salt & pepper
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/tandoori-chicken
+---
 # Tandoori Chicken
 
 ## Ingredients
@@ -31,3 +34,7 @@
 
 - Cook in air fryer/roaster @ 400 F for 15 minutes
 - Flip and cook another 10-15 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-cutlets-pan-sauce
+---
 # Chicken Cutlets with Pan Sauce
 
 ## Ingredients
@@ -31,3 +34,7 @@
 - Add 1 T. butter, parsley, & lemon juice and turn off the heat
 - If any juices accumulated on the platter, add to the sauce
 - Season sauce to taste and serve over chicken
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

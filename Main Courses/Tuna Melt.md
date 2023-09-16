@@ -1,3 +1,6 @@
+---
+permalink: /main/tuna-melt
+---
 # Tuna Melt
 
 ## Ingredients
@@ -27,3 +30,7 @@
 - Remove and melt a little more butter before flipping
 - Cook other side to golden brown
 - If not melted enough, bake or microwave until happy
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

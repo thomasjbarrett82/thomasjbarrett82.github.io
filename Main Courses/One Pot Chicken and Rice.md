@@ -1,3 +1,6 @@
+---
+permalink: /main/one-pot-chicken-rice
+---
 # One Pot Chicken and Rice
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Cover and move to the oven
 - Bake for 25-30 minutes
 - Remove and rest covered for 5-10 minutes
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

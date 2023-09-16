@@ -1,3 +1,6 @@
+---
+permalink: /main/kung-pao-chicken
+---
 # Kung Pao Chicken
 
 ## Ingredients
@@ -37,3 +40,7 @@
 - Cook for 30 seconds and then toss to combine
 - Add chicken and sauce and cook for another minute to thicken
 - Serve immediately with rice or noodles
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

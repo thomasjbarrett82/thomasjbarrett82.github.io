@@ -1,3 +1,6 @@
+---
+permalink: /main/taco-seasoning-mix
+---
 # Taco Seasoning Mix
 
 ## Ingredients
@@ -14,3 +17,7 @@
 
 - Mix all ingredients in a bowl
 - Add to taco meat after browned
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

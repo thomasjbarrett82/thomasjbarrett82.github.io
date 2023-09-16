@@ -1,3 +1,6 @@
+---
+permalink: /main/beef-stroganoff
+---
 # Beef Stroganoff
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Bring to a simmer to thicken
 - Return the steaks to the pan and stir together
 - Serve over the noodles
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

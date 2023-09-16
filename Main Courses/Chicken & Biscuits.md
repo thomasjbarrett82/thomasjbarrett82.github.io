@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-biscuits
+---
 # Chicken & Biscuits
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Add chicken and vegetables and heat through
 - Arrange quartered biscuits evenly over the top
 - Move to oven and bake until biscuits are golden brown
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

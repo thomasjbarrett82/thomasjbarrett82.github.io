@@ -1,3 +1,6 @@
+---
+permalink: /main/general-tsos-chicken
+---
 # General Tso's Chicken
 
 ## Ingredients
@@ -51,3 +54,7 @@
 - Return chicken to empty skillet and add the sauce
 - Toss until fully coated
 - Serve over white rice
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

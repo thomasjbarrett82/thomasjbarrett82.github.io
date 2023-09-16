@@ -1,3 +1,6 @@
+---
+permalink: /main/broiled-cod
+---
 # Broiled Cod
 
 Source: Tara
@@ -25,3 +28,7 @@ Source: Tara
 - Mix the remaining ingredients
 - Spread the sauce over the fish
 - Broil until just cooked through, 3-7 minutes, depending on thickness
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

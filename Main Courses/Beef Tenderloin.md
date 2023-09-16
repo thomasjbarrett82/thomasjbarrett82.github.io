@@ -1,3 +1,6 @@
+---
+permalink: /main/beef-tenderloin
+---
 # Beef Tenderloin
 
 ## Ingredients
@@ -34,3 +37,7 @@
 - Transfer to cutting board and let rest for 5 minutes
 - Slice into ½ inch slices
 - Sprinkle with chives and salt before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

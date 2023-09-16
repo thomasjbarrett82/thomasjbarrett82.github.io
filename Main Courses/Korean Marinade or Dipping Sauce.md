@@ -1,3 +1,6 @@
+---
+permalink: /main/korean-marinade-dipping-sauce
+---
 # Korean Marinade or Dipping Sauce
 
 Source: DJU
@@ -20,3 +23,7 @@ Source: DJU
 
 - Whisk all ingredients in bowl
 - Use as meat marinade or a dipping sauce
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

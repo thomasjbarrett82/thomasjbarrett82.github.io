@@ -1,3 +1,6 @@
+---
+permalink: /main/easter-ham
+---
 # Easter Ham
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Remove the foil and increase heat to 400° F
 - Glaze the ham in 5 minute intervals at least 2 or 3 times until glossy
 - Remove and let rest 15+ minutes before carving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

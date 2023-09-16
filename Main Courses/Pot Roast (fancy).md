@@ -1,3 +1,6 @@
+---
+permalink: /main/pot-roast-fancy
+---
 # Pot Roast (fancy)
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Add carrots on top and return to oven, uncovered, for 1 hour
 - Stir in vinegar, rosemary, S&P to finish
 - Serve with mashed or baked potatoes on the side
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/cuban-chicken-vegatables
+---
 # Cuban Chicken & Vegetables
 
 ## Ingredients
@@ -32,3 +35,7 @@
 - Cook for 15 minutes
 - Open tents and toss ingredients
 - Cook for 15 more minutes until chicken cooked and veggies are tender
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

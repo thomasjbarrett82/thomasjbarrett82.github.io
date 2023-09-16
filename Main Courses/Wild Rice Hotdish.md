@@ -1,3 +1,6 @@
+---
+permalink: /main/wild-rice-hotdish
+---
 # Wild Rice Hotdish
 
 ## Ingredients
@@ -34,3 +37,7 @@
 - Add the remaining ingredients and mix together
 - Cover with foil
 - Bake for 1 ½ hours
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

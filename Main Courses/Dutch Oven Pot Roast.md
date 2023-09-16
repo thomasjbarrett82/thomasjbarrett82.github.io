@@ -1,3 +1,6 @@
+---
+permalink: /main/dutch-oven-pot-roast
+---
 # Dutch Oven Pot Roast
 
 ## Ingredients
@@ -30,3 +33,7 @@
 - Cover the meat with potatoes and carrots
 - Season vegetables with salt & pepper
 - Bake for 45 minutes until potatoes and carrots are soft
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

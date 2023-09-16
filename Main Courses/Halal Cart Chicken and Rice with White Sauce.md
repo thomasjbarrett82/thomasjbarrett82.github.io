@@ -1,3 +1,6 @@
+---
+permalink: /main/halal-cart-chicken-rice-white-sauce
+---
 # Halal Cart Chicken and Rice with White Sauce
 
 ## Ingredients
@@ -55,3 +58,7 @@
 - Remove from heat and let sit another 10-15 minutes until fully absorbed
 - Return chicken and juices to the skillet and cook until heated through
 - Serve with lettuce, tomatoes, pita slices, and white sauce
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

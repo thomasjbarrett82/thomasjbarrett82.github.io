@@ -1,3 +1,6 @@
+---
+permalink: /main/bachelor-salad
+---
 # Bachelor Salad
 
 ## Ingredients
@@ -38,3 +41,7 @@
 - Lest rest for 5 minutes before cubing
 - Toss lettuce, tomatoes, cheese, potatoes, onions, and steak together
 - Coat with dressing and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

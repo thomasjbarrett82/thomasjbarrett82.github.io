@@ -1,3 +1,6 @@
+---
+permalink: /main/shepherds-pie
+---
 # Shepherd's Pie
 
 ## Ingredients
@@ -39,3 +42,7 @@
 - Cover completely with mashed potatoes
 - Bake for 25 minutes until the potatoes start to brown
 - Let cool for 15 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

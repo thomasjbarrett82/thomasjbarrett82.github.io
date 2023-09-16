@@ -1,3 +1,6 @@
+---
+permalink: /main/southern-fried-chicken
+---
 # Southern Fried Chicken
 
 ## Ingredients
@@ -38,3 +41,7 @@
 - Bake in the oven until the chicken is fully cooked
 - For extra-crispy chicken, place in the fridge for 1-12 hours after baking
 - Re-fry with 400-degree oil until crispy
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

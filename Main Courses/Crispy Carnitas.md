@@ -1,3 +1,6 @@
+---
+permalink: /main/crispy-carnitas
+---
 # Crispy Carnitas
 
 ## Ingredients
@@ -26,3 +29,7 @@
 - Shred the pork
 - Transfer to a large baking sheet
 - Broil for 15 minutes, ladling juices over it, until crispy
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

@@ -1,3 +1,6 @@
+---
+permalink: /main/reuben-sandwiches
+---
 # Reuben Sandwiches
 
 ## Ingredients
@@ -21,3 +24,7 @@
 - Remove beef and cut across grain into slices
 - Remove sauerkraut mixture and drain
 - Layer beef and sauerkraut on rye bread, and top with Swiss cheese and dressing
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

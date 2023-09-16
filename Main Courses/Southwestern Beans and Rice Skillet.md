@@ -1,3 +1,6 @@
+---
+permalink: /main/southwestern-beans-rice-skillet
+---
 # Southwestern Beans and Rice Skillet
 
 ## Ingredients
@@ -28,3 +31,7 @@
 - Stir in everything else except the cheese
 - Bring to a boil and let simmer at least 15 minutes until rice is cooked
 - Stir in the cheese and let it melt before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

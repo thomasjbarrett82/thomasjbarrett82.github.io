@@ -1,3 +1,6 @@
+---
+permalink: /main/beef-stir-fry
+---
 # Beef Stir Fry
 
 ## Ingredients
@@ -36,3 +39,7 @@
 - Return the vegetables and beef to the skillet
 - Remove from heat and stir to combine
 - Server over rice
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

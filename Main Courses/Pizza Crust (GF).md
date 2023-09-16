@@ -1,3 +1,6 @@
+---
+permalink: /main/pizza-crust-gf
+---
 # Pizza Crust (GF)
 
 ## Ingredients
@@ -25,3 +28,7 @@
 - Remove from oven and top with pizza toppings
 - Bake another 10-15 minutes until cheese is bubbly and lightly browned
 - Remove, slice and serve
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

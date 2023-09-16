@@ -1,3 +1,6 @@
+---
+permalink: /main/split-roasted-chicken-potatoes
+---
 # Split-Roasted Chicken & Potatoes
 
 ## Ingredients
@@ -23,3 +26,7 @@
 - Place chicken on top of potatoes, cavity side down
 - Roast for 45 minutes, rotating pan once, until breast reads 170° F
 - Remove and let rest for 10 minutes before serving
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

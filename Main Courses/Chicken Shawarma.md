@@ -1,3 +1,6 @@
+---
+permalink: /main/chicken-shawarma
+---
 # Chicken Shawarma
 
 ## Ingredients
@@ -48,3 +51,7 @@
 
 - Cook Shawarma in Instant Pot for 10 minutes and let release naturally
 - Serve with Greek salad, yogurt, hummus, and pita wraps
+
+---
+
+[Home](https://thomasjbarrett82.github.io)

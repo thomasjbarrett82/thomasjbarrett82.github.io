@@ -1,3 +1,6 @@
+---
+permalink: /main/fish-tacos
+---
 # Fish Tacos
 
 ## Ingredients
@@ -35,3 +38,7 @@
 - Remove to large bowl and continue cooking in batches
 - Flake fish with a fork
 - Serve with tortillas, coleslaw, and other toppings
+
+---
+
+[Home](https://thomasjbarrett82.github.io)
