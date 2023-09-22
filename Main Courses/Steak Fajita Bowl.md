@@ -1,5 +1,5 @@
 ---
-permalink: /category/steak-fajita-bowl
+permalink: /main/steak-fajita-bowl
 ---
 # Steak Fajita Bowl
 
