@@ -1,5 +1,5 @@
 ---
-permalink: /main/old-fashioned-pot-roast
+permalink: /main/old-fashioned-pot-roast-ip
 ---
 # Old Fashioned Pot Roast (IP)
 

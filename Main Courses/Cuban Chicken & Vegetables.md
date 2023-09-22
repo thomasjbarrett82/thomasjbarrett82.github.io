@@ -1,5 +1,5 @@
 ---
-permalink: /main/cuban-chicken-vegatables
+permalink: /main/cuban-chicken-vegetables
 ---
 # Cuban Chicken & Vegetables
 

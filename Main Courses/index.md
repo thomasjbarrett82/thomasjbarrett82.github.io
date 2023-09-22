@@ -5,7 +5,7 @@ permalink: /main
 
 [Bachelor Salad](/main/bachelor-salad)  
 [Baked Pork Chops & Rice](/main/baked-pork-chops-rice)  
-[Barbacoa Beef](/main/barbacoa-beef)  
+[Barbacoa Beef](/main/barbacoa-beef-ip)  
 [Beans & Rice](/main/beans-rice)  
 [Beef Bourguignon](/main/beef-bourguignon)  
 [Beef Stir-Fry](/main/beef-stir-fry)  
@@ -61,6 +61,7 @@ permalink: /main
 [Southern Fried Chicken](/main/southern-fried-chicken)  
 [Southwestern Beans and Rice Skillet](/main/southwestern-beans-rice-skillet)  
 [Split-Roasted Chicken & Potatoes](/main/split-roasted-chicken-potatoes)  
+[Steak Fajita Bowl](/main/steak-fajita-bowl)  
 [Taco Seasoning Mix](/main/taco-seasoning-mix)  
 [Taco-tot Hotdish](/main/taco-tot-hotdish)  
 [Tamale Pie](/main/tamale-pie)  
