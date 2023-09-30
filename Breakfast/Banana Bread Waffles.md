@@ -1,19 +1,20 @@
 ---
-permalink: /breakfast/waffles
+permalink: /breakfast/banana-bread-waffles
 ---
-# Waffles
+# Banana Bread Waffles
 
 ## Ingredients
 
-- 1 cup flour
-- 1 tbsp. sugar
-- 2 tsp. baking powder
+- 1 1/2 cups flour
+- 1 tsp. baking powder
+- 1/4 tsp. baking soda
 - 1/4 tsp salt
-- 1 egg
-- 1 cup milk
-- 2 tbsp oil or melted butter
+- 1 cup mashed banana (about 2)
+- 3/4 cup buttermilk
+- 1/4 cup brown sugar
+- 2 eggs
+- 3 tbsp oil or melted butter
 - 1/4 tsp. vanilla
-- Optional: 1 scoop vanilla protein powder
 
 ## Prep
 
@@ -23,7 +24,7 @@ permalink: /breakfast/waffles
 
 - Mix dry ingredients together
 - Mix wet ingredients in another bowl
-- Stir wet into dry until just incorporated
+- Stir wet into dry until no clumps remain
 - Lightly grease waffle iron before adding batter
 - Drop into waffle iron by ¼ cup scoops
 - Cook until golden brown
