@@ -52,6 +52,7 @@ permalink: /desserts
 [Potato Chip Cookies](/desserts/potato-chip-cookies)  
 [Pound Cake](/desserts/pound-cake)  
 [Pumpkin Bars](/desserts/pumpkin-bars)  
+[Pumpkin Graham Cake (GF)](/desserts/pumpkin-graham-cake-gf)  
 [Pumpkin Pie (Allergen Free)](/desserts/pumpkin-pie-af)  
 [Rice Krispie Treats (fancy)](/desserts/rice-krispie-treats-fancy)  
 [Rice Krispie Treats](/desserts/rice-krispie-treats)  
