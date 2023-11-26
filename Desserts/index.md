@@ -59,6 +59,7 @@ permalink: /desserts
 [Special K Bars](/desserts/special-k-bars)  
 [Strawberry Pie](/desserts/strawberry-pie)  
 [Sweet Potato Pie](/desserts/sweet-potato-pie)  
+[Texas Sheet Cake](/desserts/texas-sheet-cake)  
 [Wacky Cake (Vegan)](/desserts/wacky-cake-vegan)  
 [Whipped Topping (Dairy Free)](/desserts/whipped-topping-df)  
 [White Rollout Christmas Cookies](/desserts/white-rollout-christmas-cookies)  
