@@ -23,6 +23,7 @@ permalink: /main
 [Chicken Marinade](/main/chicken-marinade)  
 [Chicken Shawarma](/main/chicken-shawarma)  
 [Chicken Stir-Fry](/main/chicken-stir-fry)  
+[Chicken Tenders](/main/chicken-tenders)  
 [Chicken Wild Rice Hotdish](/main/chicken-wild-rice-hotdish)  
 [Crispy Carnitas](/main/crispy-carnitas)  
 [Crispy Roast Turkey with Gravy](/main/crispy-roast-turkey-gravy)  
