@@ -16,6 +16,7 @@ permalink: /sides
 [McDonalds French Fries](/sides/mcdonalds-french-fries)  
 [Mixed Grilled Vegetables](/sides/mixed-grilled-vegetables)  
 [Pan Fried Beans and Wilted Greens](/sides/pan-fried-beans-wilted-greens)  
+[Raising Cane's Sauce](/sides/raising-canes-sauce)  
 [Roasted Sweet Potatoes](/sides/roasted-sweet-potatoes)  
 [Scalloped Corn](/sides/scalloped-corn)  
 [Scalloped Potatoes](/sides/scalloped-potatoes)  
