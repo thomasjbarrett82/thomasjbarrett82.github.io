@@ -12,6 +12,7 @@ permalink: /sides
 [Grape Salad](/sides/grape-salad)  
 [Hash Brown Casserole](/sides/hash-brown-casserole)  
 [Kimchi](/sides/kimchi)  
+[Korean Coleslaw](/sides/korean-coleslaw)  
 [Mashed Potatoes](/sides/mashed-potatoes)  
 [McDonalds French Fries](/sides/mcdonalds-french-fries)  
 [Mixed Grilled Vegetables](/sides/mixed-grilled-vegetables)  
