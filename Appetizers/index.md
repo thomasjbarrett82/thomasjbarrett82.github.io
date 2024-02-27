@@ -9,6 +9,7 @@ permalink: /appetizers
 [Cheeseball](/appetizers/cheeseball)  
 [Chex Party Mix (GF)](/appetizers/chex-party-mix-gf)  
 [Chex Party Mix](/appetizers/chex-party-mix)  
+[Chicken Wings](/appetizers/chicken-wings)  
 [Crab Dip](/appetizers/crab-dip)  
 [Dorito Dip](/appetizers/dorito-dip)  
 [Guacamole](/appetizers/guacamole)  
