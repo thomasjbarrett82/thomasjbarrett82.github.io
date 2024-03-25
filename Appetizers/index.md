@@ -18,6 +18,7 @@ permalink: /appetizers
 [Puppy Chow](/appetizers/puppy-chow)  
 [Salsa](/appetizers/salsa)  
 [Seven Layer Dip](/appetizers/seven-layer-dip)  
+[Scotch Eggs](/appetizers/scotch-eggs)  
 [Stuffed Mushrooms](/appetizers/stuffed-mushrooms)  
 [Veggie Pizza](/appetizers/veggie-pizza)  
 
