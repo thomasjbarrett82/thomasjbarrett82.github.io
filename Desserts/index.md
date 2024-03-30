@@ -44,6 +44,7 @@ permalink: /desserts
 [Peanut Butter Cups](/desserts/peanut-butter-cups)  
 [Peanut Butter Frosting](/desserts/peanut-butter-frosting)  
 [Peanut Butter Krispie Bars](/desserts/peanut-butter-krispie-bars)  
+[Peanut Butter Oat Bars](/desserts/peanut-butter-oat-bars)  
 [Pear Crisp](/desserts/pear-crisp)  
 [Peppermint Patties](/desserts/peppermint-patties)  
 [Pie Dough](/desserts/pie-dough)  
