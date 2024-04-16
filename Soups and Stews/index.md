@@ -35,6 +35,7 @@ permalink: /soups-and-stews
 [Roasted Tomato Basil Soup](/soups-and-stews/roasted-tomato-basil-soup)  
 [Sausage & Pepper Stew](/soups-and-stews/sausage-pepper-stew)  
 [Sausage Tortellini Soup](/soups-and-stews/sausage-tortellini-soup)  
+[Sweet Potato & Lentil Stew](/soups-and-stews/sweet-potato-lentil-stew)  
 [White Chicken Chili](/soups-and-stews/white-chicken-chili)  
 [Wild Rice & Cheese Soup](/soups-and-stews/wild-rice-cheese-soup)  
 [Zuppa Toscana](/soups-and-stews/zuppa-toscana)  
