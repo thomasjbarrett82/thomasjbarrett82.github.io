@@ -32,6 +32,7 @@ permalink: /main
 [Curried Lentils & Sweet Potatoes](/main/curried-lentils-sweet-potatoes)  
 [Dutch Oven Pot Roast](/main/dutch-oven-pot-roast)  
 [Easter Ham](/main/easter-ham)  
+[Easy Taco Skillet](/main/easy-taco-skillet)  
 [Fish Tacos](/main/fish-tacos)  
 [Fried Chicken Sandwiches](/main/fried-chicken-sandwiches)  
 [Fried Rice](/main/fried-rice)  
