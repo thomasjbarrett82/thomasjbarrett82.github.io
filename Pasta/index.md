@@ -4,6 +4,7 @@ permalink: /pasta
 # Index
 
 [Baked Feta Pasta](/pasta/baked-feta-pasta)  
+[BBQ Spaghetti](/pasta/bbq-spaghetti)  
 [Chicken & Mushroom Alfredo](/pasta/chicken-mushroom-alfredo)  
 [Garlic Angel Hair Chicken](/pasta/garlic-angel-hair-chicken)  
 [Goulash Supreme](/pasta/goulash-supreme)  
