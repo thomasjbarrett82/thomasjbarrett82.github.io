@@ -17,6 +17,7 @@ permalink: /pasta
 [Sausage & Pepper Baked Penne](/pasta/sausage-pepper-baked-penne)  
 [Sausage & Spinach Penne](/pasta/sausage-spinach-penne)  
 [Spaghetti Sauce (IP)](/pasta/spaghetti-sauce-ip)  
+[Spinach Mushroom Lasagna](/pasta/spinach-mushroom-lasagna)  
 [Tomato Sauce](/pasta/tomato-sauce)  
 [Tuna Casserole](/pasta/tuna-casserole)  
 

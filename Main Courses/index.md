@@ -33,6 +33,7 @@ permalink: /main
 [Dutch Oven Pot Roast](/main/dutch-oven-pot-roast)  
 [Easter Ham](/main/easter-ham)  
 [Easy Taco Skillet](/main/easy-taco-skillet)  
+[Eggroll in a Bowl](/main/eggroll-bowl)  
 [Fish Tacos](/main/fish-tacos)  
 [Fried Chicken Sandwiches](/main/fried-chicken-sandwiches)  
 [Fried Rice](/main/fried-rice)  
