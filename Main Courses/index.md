@@ -21,6 +21,7 @@ permalink: /main
 [Chicken Cutlets with Pan Sauce](/main/chicken-cutlets-pan-sauce)  
 [Chicken Enchiladas (Instant Pot)](/main/chicken-enchiladas-ip)  
 [Chicken Marinade](/main/chicken-marinade)  
+[Chicken Satay with Nut Sauce](/main/chicken-satay-nut-sauce)  
 [Chicken Shawarma](/main/chicken-shawarma)  
 [Chicken Stir-Fry](/main/chicken-stir-fry)  
 [Chicken Tenders](/main/chicken-tenders)  

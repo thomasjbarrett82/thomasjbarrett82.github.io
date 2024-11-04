@@ -8,6 +8,7 @@ permalink: /soups-and-stews
 [Beef & Mushroom Soup](/soups-and-stews/beef-mushroom-soup)  
 [Beef Stew (IP)](/soups-and-stews/beef-stew-ip)  
 [Beef Stew](/soups-and-stews/beef-stew)  
+[Beef Vegetable Soup](/soups-and-stews/beef-vegetable-soup)  
 [Beer Cheese Soup](/soups-and-stews/beer-cheese-soup)  
 [Black Bean Soup](/soups-and-stews/black-bean-soup)  
 [Black Bean Stew (Vegan)](/soups-and-stews/black-bean-stew-vegan)  
