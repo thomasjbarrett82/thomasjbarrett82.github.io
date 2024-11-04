@@ -6,6 +6,7 @@ permalink: /sides
 [Black Beans (IP)](/sides/black-beans-ip)  
 [Brown Rice](/sides/brown-rice)  
 [Candied Yams](/sides/candied-yams)  
+[Colcannon](/sides/colcannon)  
 [Collard Greens](/sides/collard-greens)  
 [Curried Rice](/sides/curried-rice)  
 [Fridge Pickled Banana Peppers](/sides/fridge-pickled-banana-peppers)  
