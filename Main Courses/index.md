@@ -14,6 +14,7 @@ permalink: /main
 [Bourbon Glazed Steak Tips](/main/bourbon-glazed-steak-tips)  
 [Broiled Cod](/main/broiled-cod)  
 [Butternut Squash & Chickpea Curry](/main/butternut-squash-chickpea-curry)  
+[Cheesesteak Sloppy Joe Bowls](/main/cheesesteak-sloppy-joe-bowls)  
 [Cheesy Chicken Pot Pie](/main/cheesy-chicken-pot-pie)  
 [Chicken & Biscuits](/main/chicken-biscuits)  
 [Chicken & Broccoli Stir-Fry](/main/chicken-broccoli-stir-fry)  

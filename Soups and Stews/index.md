@@ -6,6 +6,7 @@ permalink: /soups-and-stews
 [African Peanut Stew](/soups-and-stews/african-peanut-stew)  
 [Beef & Cabbage Stew](/soups-and-stews/beef-cabbage-stew)  
 [Beef & Mushroom Soup](/soups-and-stews/beef-mushroom-soup)  
+[Beef Bourguignon](/soups-and-stews/beef-bouguignon)  
 [Beef Stew (IP)](/soups-and-stews/beef-stew-ip)  
 [Beef Stew](/soups-and-stews/beef-stew)  
 [Beef Vegetable Soup](/soups-and-stews/beef-vegetable-soup)  
