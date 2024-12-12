@@ -5,7 +5,7 @@ permalink: /drinks/russian-tea
 
 ## Ingredients
 
-- 1 ½ cups white sugar
+- 1 cup white sugar
 - 2 cups Tang
 - ½ cup unsweetened ice tea mix
 - 1 pkg. unsweetened lemonade mix

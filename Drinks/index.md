@@ -5,6 +5,7 @@ permalink: /drinks
 
 [Christmas Special Beer](/drinks/christmas-special-beer)  
 [Eggnog](/drinks/eggnog)  
+[Grandma Millie's Tea](/drinks/grandma-millies-tea)  
 [Home-made Bailey's](/drinks/home-made-baileys)  
 [Hot Chocolate Mix](/drinks/hot-chocolate-mix)  
 [Perfect Green Smoothie](/drinks/perfect-green-smoothie)  

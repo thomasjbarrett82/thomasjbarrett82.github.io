@@ -10,6 +10,8 @@ permalink: /sides
 [Collard Greens](/sides/collard-greens)  
 [Curried Rice](/sides/curried-rice)  
 [Fridge Pickled Banana Peppers](/sides/fridge-pickled-banana-peppers)  
+[Frozen Corn](/sides/frozen-corn)  
+[Frozen Cream Corn](/sides/frozen-cream-corn)  
 [Grape Salad](/sides/grape-salad)  
 [Hash Brown Casserole](/sides/hash-brown-casserole)  
 [Kimchi](/sides/kimchi)  
