@@ -8,6 +8,7 @@ permalink: /sides
 [Candied Yams](/sides/candied-yams)  
 [Colcannon](/sides/colcannon)  
 [Collard Greens](/sides/collard-greens)  
+[Cranberry Sauce](/sides/cranberry-sauce)  
 [Curried Rice](/sides/curried-rice)  
 [Fridge Pickled Banana Peppers](/sides/fridge-pickled-banana-peppers)  
 [Frozen Corn](/sides/frozen-corn)  
