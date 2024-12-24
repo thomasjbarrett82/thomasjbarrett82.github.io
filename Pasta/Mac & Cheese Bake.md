@@ -16,10 +16,10 @@ Source: Tom
 - 8 oz mozzarella, shredded
 - 8 oz American, cubed
 - 8 oz cream cheese, softened and cubed
-- 1 tsp smoked paprika
-- 2 tsp garlic powder
-- 1 tsp onion powder
-- 1/2 tsp mustard powder (or 1 tsp mustard)
+- 1 tbsp smoked paprika
+- 1 tbsp garlic powder
+- 1 tbsp onion powder
+- 1 tsp mustard powder (or 1 tsp mustard)
 - 2 large eggs
 - Optional: breadcrumbs or crushed cornflakes
 - Optional: parsley
