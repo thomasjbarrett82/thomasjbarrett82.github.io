@@ -7,15 +7,17 @@ Source: Tom
 
 ## Ingredients
 
-- 2 tbsp. butter (use dairy free for vegan)
-- 3 strips bacon, chopped (can omit for vegetarian)
-- 1 onion, minced
-- 1 bunch (1 - 1.5 lbs.) collard greens, roughly chopped
-- 3 cloves garlic, minced
-- 2 cups chicken or vegetable stock
-- 1 tbsp. cider vinegar or red wine vinegar
-- 1 tbsp. Tabasco
-- Optional: 1/4 tsp. liquid smoke, if not using bacon
+- 2 tbsp. butter
+- 1/2 lb ham hocks
+- 1/2 onion, minced
+- 1 bunch (1 - 1.5 lbs.) collard greens, washed, trimmed, roughly chopped
+- 2 cloves garlic, minced
+- 2 cups chicken stock
+- 1/2 tsp. liquid smoke
+- 1 tbsp. creole seasoning
+- 1 tsp. hot sauce
+- 1 tbsp. cider vinegar
+- 1 tbsp. sugar
 
 ## Prep
 
@@ -24,13 +26,14 @@ Source: Tom
 ## Directions
 
 - Melt butter until it starts to foam
-- Cook bacon and onion in pot until crisp
-- Add greens and garlic, tossing in the fat
-- Add stock and cover
-- Cook for 10 minutes until greens are wilted
-- Remove cover and cook for another 5-10 minutes to evaporate most liquid
-- Stir in vinegar, tabasco, and liquid smoke (if using)
-- Add salt & pepper to taste
+- Cook ham hocks and onion in pot for 5 minutes
+- Add enough water to cover the ham hocks
+- Bring to a boil, cover and simmer for 1 hour until tender
+- Stir in remaining ingredients, adding water if needed
+  - Add greens in batches, if needed
+- Cover and simmer for 2+ hours until soft and tender
+- Remove ham hocks, shred and return meat to pot
+- Season to taste
 
 ---
 
