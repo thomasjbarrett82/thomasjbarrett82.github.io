@@ -30,11 +30,11 @@ permalink: /pasta/tuna-casserole
 - Melt butter in skillet
 - Sauté onions until tender and translucent
 - Remove from heat
-- Add soup, mayo, sour cream, milk, salt, & pepper
-- Mix well and add to casserole dish
+- Mix onion, tuna, soup, mayo, sour cream, milk, salt & pepper, Cheddar, peas in large bowl
+- Add to casserole dish
 - Stir in noodles
 - Top with chips
-- Bake for 30 minutes uncovered
+- Bake for 30 minutes uncovered until bubbly and starting to brown on top
 - Remove and let cool at least 5 minutes before serving
 
 ---
