@@ -1,7 +1,10 @@
 ---
 permalink: /meal-ideas
 ---
-# Index
+
+# Meal Ideas
+
+---
 
 ## Quick Suppers
 
@@ -29,11 +32,12 @@ Tacos
 [Taco Skillet](/main/easy-taco-skillet)  
 [Tater-Tot Hotdish](/main/tater-tot-hotdish)  
 
+---
+
 ## All Day Cooking
 
 [Chili](/soups-and-stews/chili)  
-[Dutch Oven Pot Roast](/main/dutch-oven-pot-roast)  
-[Pot Roast (fancy)](/main/pot-roast-fancy)  
+[Crockpot Pot Roast](/main/crockpot-pot-roast)  
 [Pulled Pork BBQ](/main/pulled-pork-bbq)  
 [Smothered Pork Chops](/main/smothered-pork-chops)  
 [Three Bean Hotdish](/sides/three-bean-hotdish)  

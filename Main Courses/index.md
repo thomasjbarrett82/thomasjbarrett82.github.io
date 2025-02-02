@@ -30,6 +30,7 @@ permalink: /main
 [Chicken Wild Rice Hotdish](/main/chicken-wild-rice-hotdish)  
 [Crispy Carnitas](/main/crispy-carnitas)  
 [Crispy Roast Turkey with Gravy](/main/crispy-roast-turkey-gravy)  
+[Crockpot Pot Roast](/main/crockpot-pot-roast)  
 [Cuban Chicken & Vegetables](/main/cuban-chicken-vegetables)  
 [Curried Lentils & Sweet Potatoes](/main/curried-lentils-sweet-potatoes)  
 [Dutch Oven Pot Roast](/main/dutch-oven-pot-roast)  
