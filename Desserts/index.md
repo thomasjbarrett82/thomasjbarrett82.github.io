@@ -21,6 +21,7 @@ permalink: /desserts
 [Cheesecake](/desserts/cheesecake)  
 [Cherry Pie](/desserts/cherry-pie)  
 [Chocolate Chip Cookies (Toll House)](/desserts/chocolate-chip-cookies)  
+[Chocolate Chip Cookies (GF)](/desserts/chocolate-chip-cookies-gf)  
 [Chocolate Mayo Cake](/desserts/chocolate-mayo-cake)  
 [Chocolate Pie](/desserts/chocolate-pie)  
 [Chocolate Pudding Pie (Allergen-Free)](/desserts/chocolate-pudding-pie-af)  
