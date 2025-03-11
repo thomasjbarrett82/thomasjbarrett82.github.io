@@ -58,6 +58,7 @@ permalink: /main
 [Pot Roast (fancy)](/main/pot-roast-fancy)  
 [Prime Rib](/main/prime-rib)  
 [Pulled Pork BBQ](/main/pulled-pork-bbq)  
+[Quesadillas](/main/quesadillas)  
 [Red Beans & Rice](/main/red-beans-rice)  
 [Reuben Sandwiches](/main/reuben-sandwiches)  
 [Roasted Turkey and Gravy](/main/roasted-turkey-and-gravy)  
