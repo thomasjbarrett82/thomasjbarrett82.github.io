@@ -42,6 +42,7 @@ permalink: /desserts
 [Orange Delight Cookies](/desserts/orange-delight-cookies)  
 [Oreo Bombs](/desserts/oreo-bombs)  
 [Peanut Butter Cookies (GF)](/desserts/peanut-butter-cookies-gf)  
+[Peanut Butter Cookies (Soft) (GF)](/desserts/peanut-butter-cookies-soft-gf)  
 [Peanut Butter Cups](/desserts/peanut-butter-cups)  
 [Peanut Butter Frosting](/desserts/peanut-butter-frosting)  
 [Peanut Butter Krispie Bars](/desserts/peanut-butter-krispie-bars)  
