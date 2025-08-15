@@ -28,6 +28,7 @@ permalink: /soups-and-stews
 [Ham & Bean Soup](/soups-and-stews/ham-bean-soup)  
 [Ham and Sauerkraut Stew](/soups-and-stews/ham-sauerkraut-stew)  
 [Hot and Sour Soup](/soups-and-stews/hot-sour-soup)  
+[Italian Turkey Stew](/soups-and-stews/italian-turkey-stew)  
 [Jambalaya](/soups-and-stews/jambalaya)  
 [Minestrone](/soups-and-stews/minestrone)  
 [Pasta Fagioli (IP)](/soups-and-stews/pasta-fagioli-ip)  
