@@ -25,6 +25,7 @@ permalink: /soups-and-stews
 [Corn Soup](/soups-and-stews/corn-soup)  
 [Frogmore Stew](/soups-and-stews/frogmore-stew)  
 [Garlic Butternut Squash Soup](/soups-and-stews/garlic-butternut-squash-soup)  
+[Green Chicken Chili](/soups-and-stews/green-chicken-chili)  
 [Ham & Bean Soup](/soups-and-stews/ham-bean-soup)  
 [Ham and Sauerkraut Stew](/soups-and-stews/ham-sauerkraut-stew)  
 [Hot and Sour Soup](/soups-and-stews/hot-sour-soup)  

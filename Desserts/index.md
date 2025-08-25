@@ -15,6 +15,7 @@ permalink: /desserts
 [Baked Apples](/desserts/baked-apples)  
 [Black Bean Brownies (GF)](/desserts/black-bean-brownies-gf)  
 [Black Bottom Cupcakes](/desserts/black-bottom-cupcakes)  
+[Blueberry Zucchini Cake with Lemon Buttercream](/desserts/blueberry-zucchini-cake-lemon-buttercream)  
 [Bourbon Crisp](/desserts/bourbon-crisp)  
 [Brown Sugar Whipped Cream](/desserts/brown-sugar-whipped-cream)  
 [Candy Cane Cookies](/desserts/candy-cane-cookies)  

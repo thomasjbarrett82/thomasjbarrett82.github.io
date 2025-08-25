@@ -16,6 +16,7 @@ permalink: /breakfast
 [Pancakes (Allergen Free)](/breakfast/pancakes-allergen-free)  
 [Pull Apart Cinnamon Rolls](/breakfast/pull-apart-cinnamon-rolls)  
 [Sausage Gravy](/breakfast/sausage-gravy)  
+[Sausage Zucchini Egg Bake](/breakfast/sausage-zucchini-egg-bake)  
 [Scottish Oatmeal](/breakfast/scottish-oatmeal)  
 [Waffles](/breakfast/waffles)  
 
