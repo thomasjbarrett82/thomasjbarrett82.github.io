@@ -3,6 +3,7 @@ permalink: /sides
 ---
 # Index
 
+[Aloo Green Beans](/sides/aloo-green-beans)  
 [Black Beans (IP)](/sides/black-beans-ip)  
 [Brown Rice](/sides/brown-rice)  
 [Candied Yams](/sides/candied-yams)  
