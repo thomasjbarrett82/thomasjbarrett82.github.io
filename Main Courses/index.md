@@ -78,6 +78,8 @@ permalink: /main
 [Split-Roasted Chicken & Potatoes](/main/split-roasted-chicken-potatoes)  
 [Split-Roasted Turkey](/main/split-roasted-turkey)  
 [Steak Fajita Bowl](/main/steak-fajita-bowl)  
+[Sushi Bowl](/main/sushi-bowl)  
+[Sweet Potato Chickpea Bowl](/main/sweet-potato-chickpea-bowl)  
 [Taco Seasoning Mix](/main/taco-seasoning-mix)  
 [Taco-tot Hotdish](/main/taco-tot-hotdish)  
 [Tamale Pie](/main/tamale-pie)  

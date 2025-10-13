@@ -9,8 +9,10 @@ Source: Alton Brown
 
 - 1 box Rice Krispies
 - 1 stick butter (Kerry Gold is preferred)
-- 2 bags Jet-Puffed mini marshmallows
 - ½ tsp. kosher salt
+- 2 bags Jet-Puffed mini marshmallows
+- 1/4 cup bourbon
+- 1 tsp vanilla extract
 
 ## Directions
 
@@ -19,7 +21,7 @@ Source: Alton Brown
 - Brown the butter in the wok
 - Add the salt
 - Turn down the heat to low
-- Add the marshmallows
+- Add the marshmallows, bourbon, vanilla
 - Stir until melted
 - Add the cereal back in and stir until thoroughly combined
 - Transfer to lightly greased casserole dish
