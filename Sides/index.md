@@ -6,6 +6,7 @@ permalink: /sides
 [Aloo Green Beans](/sides/aloo-green-beans)  
 [Black Beans (IP)](/sides/black-beans-ip)  
 [Brown Rice](/sides/brown-rice)  
+[Brown Sugar Glazed Carrots](/sides/brown-sugar-glazed-carrots)  
 [Candied Yams](/sides/candied-yams)  
 [Colcannon](/sides/colcannon)  
 [Collard Greens](/sides/collard-greens)  
