@@ -15,6 +15,7 @@ permalink: /sides
 [Fridge Pickled Banana Peppers](/sides/fridge-pickled-banana-peppers)  
 [Frozen Corn](/sides/frozen-corn)  
 [Frozen Cream Corn](/sides/frozen-cream-corn)  
+[Garlic Parmesan Butter Beans](/sides/garlic-parmesan-butter-beans)  
 [Grape Salad](/sides/grape-salad)  
 [Hash Brown Casserole](/sides/hash-brown-casserole)  
 [Kimchi](/sides/kimchi)  

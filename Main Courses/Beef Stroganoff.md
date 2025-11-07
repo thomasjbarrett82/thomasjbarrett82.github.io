@@ -10,7 +10,7 @@ permalink: /main/beef-stroganoff
 - 2 lbs. beef tenderloin or sirloin steaks
 - 1 tbsp. butter
 - 1 onion, minced
-- 1 lb. mushrooms, sliced
+- 1 lb. mushrooms, sliced and rinsed
 - 2 tbsp. cornstarch
 - ½ cup sour cream
 - 2 tbsp. Dijon mustard
