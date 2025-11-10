@@ -1,21 +1,33 @@
-# Categories
+# Recipes
 
-## [Appetizers](/appetizers)
+---
 
-## [Breads](/breads)
+## Categories
 
-## [Breakfast](/breakfast)
+### [Appetizers](/appetizers)
 
-## [Cooking Resources](/resources)
+### [Breads](/breads)
 
-## [Desserts](/desserts)
+### [Breakfast](/breakfast)
 
-## [Drinks](/drinks)
+### [Cooking Resources](/resources)
 
-## [Main Courses](/main)
+### [Desserts](/desserts)
 
-## [Pasta](/pasta)
+### [Drinks](/drinks)
 
-## [Sides](/sides)
+### [Main Courses](/main)
 
-## [Soups and Stews](/soups-and-stews)
+### [Pasta](/pasta)
+
+### [Sides](/sides)
+
+### [Soups and Stews](/soups-and-stews)
+
+---
+
+## Lists
+
+### [Meal Ideas](/meal-ideas)
+
+### [Meal Prep](/meal-prep)

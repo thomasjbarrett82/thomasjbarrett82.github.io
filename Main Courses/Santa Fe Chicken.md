@@ -28,7 +28,7 @@ permalink: /main/santa-fe-chicken
 - Heat oil in pan
 - Brown chicken on both sides, remove and shred
 - Place all ingredients in crockpot
-- Cook on LOW for 8-10 hours
+- Cook on LOW for 4-5 hours
 
 ---
 
