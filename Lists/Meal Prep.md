@@ -6,6 +6,11 @@ permalink: /meal-prep
 
 ---
 
+## Breakfast
+
+[Granola](/breakfast/granola)  
+[Protein Waffles](/breakfast/protein-waffles)  
+
 ## Main Courses
 
 [Butter Chicken (Instant Pot)](/main/butter-chicken-ip)  
@@ -19,6 +24,7 @@ permalink: /meal-prep
 [Eggroll in a Bowl](/main/eggroll-bowl)  
 [Greek-style Chicken Spinach Salad](/main/greek-style-chicken-spinach-salad)  
 [One Pot Chicken and Rice](/main/one-pot-chicken-rice)  
+[Pizza Beans](/main/pizza-beans)  
 [Pulled Pork BBQ](/main/pulled-pork-bbq)  
 [Red Beans & Rice](/main/red-beans-rice)  
 [Santa Fe Chicken](/main/santa-fe-chicken)  

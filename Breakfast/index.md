@@ -14,6 +14,7 @@ permalink: /breakfast
 [Monkey Bread](/breakfast/monkey-bread)  
 [Pancakes](/breakfast/pancakes)  
 [Pancakes (Allergen Free)](/breakfast/pancakes-allergen-free)  
+[Protein Waffles](/breakfast/protein-waffles)  
 [Pull Apart Cinnamon Rolls](/breakfast/pull-apart-cinnamon-rolls)  
 [Sausage Gravy](/breakfast/sausage-gravy)  
 [Sausage Zucchini Egg Bake](/breakfast/sausage-zucchini-egg-bake)  

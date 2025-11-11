@@ -22,6 +22,7 @@ Hot Dogs & Brats
 [Lasagna](/pasta/lasagna)  
 [Mac & Cheese Bake](/pasta/mac-cheese-bake)  
 [Pan Seared Pork Chops](/main/pan-seared-pork-chops)  
+[Pizza Beans](/main/pizza-beans)  
 [Pizza Casserole](/pasta/pizza-casserole)  
 [Quesadillas](/main/quesadillas)  
 [Sausage & Spinach Penne](/pasta/sausage-spinach-penne)  

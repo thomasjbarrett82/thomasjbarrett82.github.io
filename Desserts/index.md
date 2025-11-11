@@ -60,6 +60,7 @@ permalink: /desserts
 [Pumpkin Pie (Allergen Free)](/desserts/pumpkin-pie-af)  
 [Rice Krispie Treats (fancy)](/desserts/rice-krispie-treats-fancy)  
 [Rice Krispie Treats](/desserts/rice-krispie-treats)  
+[Snickers Salad](/desserts/snickers-salad)  
 [Special K Bars](/desserts/special-k-bars)  
 [Strawberry Pie](/desserts/strawberry-pie)  
 [Sweet Potato Pie](/desserts/sweet-potato-pie)  

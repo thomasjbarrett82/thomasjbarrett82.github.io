@@ -53,6 +53,7 @@ permalink: /main
 [One Pot Chicken and Rice](/main/one-pot-chicken-rice)  
 [Pan Pizza](/main/pan-pizza)  
 [Pan Seared Pork Chops](/main/pan-seared-pork-chops)  
+[Pizza Beans](/main/pizza-beans)  
 [Pizza Crust (GF)](/main/pizza-crust-gf)  
 [Pizza Pizza](/main/pizza-pizza)  
 [Pork Chops and Rice (IP)](/main/pork-chops-rice-ip)  
