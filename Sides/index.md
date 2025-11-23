@@ -8,6 +8,7 @@ permalink: /sides
 [Brown Rice](/sides/brown-rice)  
 [Brown Sugar Glazed Carrots](/sides/brown-sugar-glazed-carrots)  
 [Candied Yams](/sides/candied-yams)  
+[Chickpea Feta Salad](/sides/chickpea-feta-salad)  
 [Colcannon](/sides/colcannon)  
 [Collard Greens](/sides/collard-greens)  
 [Cranberry Sauce](/sides/cranberry-sauce)  

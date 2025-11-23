@@ -11,6 +11,7 @@ permalink: /main
 [Beef Stir-Fry](/main/beef-stir-fry)  
 [Beef Stroganoff](/main/beef-stroganoff)  
 [Beef Tenderloin](/main/beef-tenderloin)  
+[Black Bean Tacos](/main/black-bean-tacos)  
 [Bourbon Glazed Steak Tips](/main/bourbon-glazed-steak-tips)  
 [Broiled Cod](/main/broiled-cod)  
 [Butter Chicken (Instant Pot)](/main/butter-chicken-ip)  
