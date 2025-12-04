@@ -22,6 +22,7 @@ permalink: /sides
 [Kimchi](/sides/kimchi)  
 [Korean Coleslaw](/sides/korean-coleslaw)  
 [Mashed Potatoes](/sides/mashed-potatoes)  
+[Mashed Pro-tatoes](/sides/mashed-pro-tatoes)  
 [McDonalds French Fries](/sides/mcdonalds-french-fries)  
 [Mixed Grilled Vegetables](/sides/mixed-grilled-vegetables)  
 [Pan Fried Beans and Wilted Greens](/sides/pan-fried-beans-wilted-greens)  
