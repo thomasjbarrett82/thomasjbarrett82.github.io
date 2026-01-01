@@ -5,6 +5,10 @@ permalink: /resources/instant-pot-time-tables
 
 Source: Tom
 
+## Online Resources
+
+[Instant Pot Database](https://duke8585.github.io/instant-pot-database/)  
+
 ## Seafood and Fish
 
 - Steaming in a bowl with a trivet, 1 cup of water underneath, is the preferred method.
