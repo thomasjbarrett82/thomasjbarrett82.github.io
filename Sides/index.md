@@ -29,6 +29,7 @@ permalink: /sides
 [Potato Wedges](/sides/potato-wedges)  
 [Raising Cane's Sauce](/sides/raising-canes-sauce)  
 [Roasted Sweet Potatoes](/sides/roasted-sweet-potatoes)  
+[Sauteed Cabbage](/sides/sauteed-cabbage)  
 [Scalloped Corn](/sides/scalloped-corn)  
 [Scalloped Potatoes](/sides/scalloped-potatoes)  
 [Stuffing](/sides/stuffing)  
