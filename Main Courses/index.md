@@ -31,6 +31,7 @@ permalink: /main
 [Chicken Tenders](/main/chicken-tenders)  
 [Chicken Wild Rice Hotdish](/main/chicken-wild-rice-hotdish)  
 [Chicken Zucchini Rice Hotdish](/main/chicken-zucchini-rice-hotdish)  
+[Cowboy Caviar](/main/cowboy-caviar)  
 [Crispy Carnitas](/main/crispy-carnitas)  
 [Crispy Roast Turkey with Gravy](/main/crispy-roast-turkey-gravy)  
 [Crockpot Pot Roast](/main/crockpot-pot-roast)  
