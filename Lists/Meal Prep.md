@@ -13,6 +13,7 @@ permalink: /meal-prep
 
 ## Main Courses
 
+[Butter Chicken](/main/butter-chicken)  
 [Butter Chicken (Instant Pot)](/main/butter-chicken-ip)  
 [Cheesesteak Sloppy Joe Bowls](/main/cheesesteak-sloppy-joe-bowls)  
 [Chicken & Yellow Rice (Instant Pot)](/main/chicken-yellow-rice-ip)  

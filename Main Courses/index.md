@@ -14,6 +14,7 @@ permalink: /main
 [Black Bean Tacos](/main/black-bean-tacos)  
 [Bourbon Glazed Steak Tips](/main/bourbon-glazed-steak-tips)  
 [Broiled Cod](/main/broiled-cod)  
+[Butter Chicken](/main/butter-chicken)  
 [Butter Chicken (Instant Pot)](/main/butter-chicken-ip)  
 [Butternut Squash & Chickpea Curry](/main/butternut-squash-chickpea-curry)  
 [Cheesesteak Sloppy Joe Bowls](/main/cheesesteak-sloppy-joe-bowls)  

@@ -7,29 +7,35 @@ Source: Tara
 
 ## Ingredients
 
-- 2 lbs. ground beef
-- 2 onions, chopped
-- 4 bell peppers, chopped
-- 4 cans beans (mix of kidney and chili)
-- 2 cans stewed or diced tomatoes
-- 1 or 2 jalapenos, diced
+- 1 lb. ground beef
+- 1-2 packages of fajita veggies (onions & bell peppers)
+- 4-6 cans beans with chili sauce (mix of bean types)
+- 2 cans Rotel
 - 2 packages chili seasoning
-- 1 cup tortilla chips, crushed (optional)
+- OPTIONAL: 1 or 2 jalapenos, diced
+- OPTIONal: 1 cup tortilla chips, crushed
 
 ## Prep
 
 - Heat Dutch oven on medium
+- OR turn crockpot on low and heat a pan on medium
 
-## Directions
+## Directions (Dutch oven)
 
 - Brown beef in pot
-- Add onions & peppers and cook for 5 minutes
-- Add remaining ingredients
-- Bring to a boil
+- Add remaining ingredients (except chips)
+- Bring just to a low boil
+- Add tortilla chips, if using them
 - Turn to low and cover
-- Add tortilla chips, if using
-- Cook for 2-3 hours
-- Serve with cheese and sour cream
+- Simmer for 2-3 hours
+
+## Directions (crockpot)
+
+- Brown beef in pan
+- Combine with all remaining ingredients in crockpot
+- Cook on low for 6-8 hours
+
+Serve with cheese and sour cream
 
 ---
 
