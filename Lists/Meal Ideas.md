@@ -39,6 +39,7 @@ Tacos
 
 ## All Day Cooking
 
+[Birria Chicken Stew](/soups-and-stews/birria-chicken-stew)  
 [Chili](/soups-and-stews/chili)  
 [Crockpot Pot Roast](/main/crockpot-pot-roast)  
 [Pulled Pork BBQ](/main/pulled-pork-bbq)  

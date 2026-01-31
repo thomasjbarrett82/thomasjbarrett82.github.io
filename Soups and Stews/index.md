@@ -12,6 +12,7 @@ permalink: /soups-and-stews
 [Beef Vegetable Soup](/soups-and-stews/beef-vegetable-soup)  
 [Bean & Spinach Stew](/soups-and-stews/bean-spinach-stew)  
 [Beer Cheese Soup](/soups-and-stews/beer-cheese-soup)  
+[Birria Chicken Stew](/soups-and-stews/birria-chicken-stew)  
 [Black Bean Soup](/soups-and-stews/black-bean-soup)  
 [Black Bean Stew (Vegan)](/soups-and-stews/black-bean-stew-vegan)  
 [Cabbage Soup](/soups-and-stews/cabbage-soup)  

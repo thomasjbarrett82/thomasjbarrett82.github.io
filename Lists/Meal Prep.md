@@ -39,6 +39,7 @@ permalink: /meal-prep
 ## Soups and Stews
 
 [Beef & Cabbage Stew](/soups-and-stews/beef-cabbage-stew)  
+[Birria Chicken Stew](/soups-and-stews/birria-chicken-stew)  
 [Black Bean Soup](/soups-and-stews/black-bean-soup)  
 [Chicken Tortilla Soup](/soups-and-stews/chicken-tortilla-soup)  
 [Chili](/soups-and-stews/chili)  
