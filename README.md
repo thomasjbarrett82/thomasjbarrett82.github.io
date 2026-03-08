@@ -31,3 +31,7 @@
 ### [Meal Ideas](/meal-ideas)
 
 ### [Meal Prep](/meal-prep)
+
+### [Pressure Cooker Meals](/pressure-cooker)
+
+### [Slow Cooker Meals](/slow-cooker)

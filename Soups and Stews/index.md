@@ -4,6 +4,7 @@ permalink: /soups-and-stews
 # Index
 
 [African Peanut Stew](/soups-and-stews/african-peanut-stew)  
+[Bean & Spinach Stew](/soups-and-stews/bean-spinach-stew)  
 [Beef & Cabbage Stew](/soups-and-stews/beef-cabbage-stew)  
 [Beef & Mushroom Soup](/soups-and-stews/beef-mushroom-soup)  
 [Beef Bourguignon](/soups-and-stews/beef-bouguignon)  
@@ -20,6 +21,7 @@ permalink: /soups-and-stews
 [Chicken & Mushroom Stew](/soups-and-stews/chicken-mushroom-stew)  
 [Chicken & Sausage Cassoulet](/soups-and-stews/chicken-sausage-cassoulet)  
 [Chicken & Sausage Gumbo](/soups-and-stews/chicken-sausage-gumbo)  
+[Chicken & Wild Rice Soup](/soups-and-stews/chicken-wild-rice-soup)  
 [Chicken Noodle Soup](/soups-and-stews/chicken-noodle-soup)  
 [Chicken Tortilla Soup](/soups-and-stews/chicken-tortilla-soup)  
 [Chili](/soups-and-stews/chili)  

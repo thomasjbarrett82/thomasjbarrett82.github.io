@@ -32,7 +32,7 @@ permalink: /breakfast/french-toast-casserole
 - Bake at 350F for 35-45 minutes until firm
 - Let rest at least 10 minutes before serving with fruit and syrup
 
-*Note: can be prepped the night before*
+Note: can be prepped the night before
 
 ---
 
