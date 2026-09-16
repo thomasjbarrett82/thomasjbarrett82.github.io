@@ -10,6 +10,7 @@ permalink: /sides
 [Candied Yams](/sides/candied-yams)  
 [Chickpea Feta Salad](/sides/chickpea-feta-salad)  
 [Colcannon](/sides/colcannon)  
+[Coleslaw](/sides/coleslaw)  
 [Collard Greens](/sides/collard-greens)  
 [Cranberry Sauce](/sides/cranberry-sauce)  
 [Curried Rice](/sides/curried-rice)  
