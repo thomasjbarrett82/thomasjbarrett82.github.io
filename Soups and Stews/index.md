@@ -35,6 +35,7 @@ permalink: /soups-and-stews
 [Hot and Sour Soup](/soups-and-stews/hot-sour-soup)  
 [Italian Turkey Stew](/soups-and-stews/italian-turkey-stew)  
 [Jambalaya](/soups-and-stews/jambalaya)  
+[Lentil Stew](/soups-and-stews/lentil-stew)  
 [Minestrone](/soups-and-stews/minestrone)  
 [Pasta Fagioli (IP)](/soups-and-stews/pasta-fagioli-ip)  
 [Pasta Fagioli](/soups-and-stews/pasta-fagioli)  
