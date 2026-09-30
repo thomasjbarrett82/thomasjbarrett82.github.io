@@ -65,6 +65,7 @@ permalink: /main
 [Pork Rub with coffee](/main/pork-rub-coffee)  
 [Pork Rub](/main/pork-rub)  
 [Pork Souvlaki](/main/pork-souvlaki)  
+[Pork Tacos](/main/pork-tacos)  
 [Portabella Burgers](/main/portabella-burgers)  
 [Pot Roast (fancy)](/main/pot-roast-fancy)  
 [Prime Rib](/main/prime-rib)  
